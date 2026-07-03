@@ -1,0 +1,25 @@
+﻿model_name,architecture_config,metric_label,mean,std,n
+Llama 3.2 1B,SLM,Answer Correctness,0.3081,0.1158,111
+Llama 3.2 1B,SLM,Answer Relevancy,0.843,0.1104,111
+Llama 3.2 1B,SLM,RAGAS Answer Mean,0.5755,0.0791,111
+Llama 3.2 1B,Text-RAG,Answer Correctness,0.3581,0.1465,111
+Llama 3.2 1B,Text-RAG,Answer Relevancy,0.8313,0.2081,111
+Llama 3.2 1B,Text-RAG,RAGAS Answer Mean,0.5947,0.1373,111
+Llama 3.2 1B,Image-Text-RAG,Answer Correctness,0.382,0.1541,111
+Llama 3.2 1B,Image-Text-RAG,Answer Relevancy,0.8344,0.1971,111
+Llama 3.2 1B,Image-Text-RAG,RAGAS Answer Mean,0.6082,0.1448,111
+Llama 3.2 1B,Image-RAG,Answer Correctness,0.3679,0.1508,111
+Llama 3.2 1B,Image-RAG,Answer Relevancy,0.8566,0.1304,111
+Llama 3.2 1B,Image-RAG,RAGAS Answer Mean,0.6123,0.1084,111
+Llama 3.2 3B,SLM,Answer Correctness,0.3721,0.1303,111
+Llama 3.2 3B,SLM,Answer Relevancy,0.8604,0.1156,111
+Llama 3.2 3B,SLM,RAGAS Answer Mean,0.6162,0.0954,111
+Llama 3.2 3B,Text-RAG,Answer Correctness,0.4348,0.1523,111
+Llama 3.2 3B,Text-RAG,Answer Relevancy,0.8592,0.1188,111
+Llama 3.2 3B,Text-RAG,RAGAS Answer Mean,0.647,0.1049,111
+Llama 3.2 3B,Image-Text-RAG,Answer Correctness,0.4662,0.1576,111
+Llama 3.2 3B,Image-Text-RAG,Answer Relevancy,0.8608,0.138,111
+Llama 3.2 3B,Image-Text-RAG,RAGAS Answer Mean,0.6635,0.1134,111
+Llama 3.2 3B,Image-RAG,Answer Correctness,0.4481,0.149,111
+Llama 3.2 3B,Image-RAG,Answer Relevancy,0.8619,0.1157,111
+Llama 3.2 3B,Image-RAG,RAGAS Answer Mean,0.655,0.1005,111

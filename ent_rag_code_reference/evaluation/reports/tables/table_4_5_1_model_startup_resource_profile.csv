@@ -1,0 +1,3 @@
+﻿Model Card,Startup Time (s),Startup RAM Delta (MB),Startup Device VRAM Delta (MB),Resident Torch VRAM after Startup (MB),Peak Torch VRAM during Startup (MB)
+Llama 3.2 1B,9.91,2706.30,2360.00,2358.13,2358.13
+Llama 3.2 3B,12.96,6302.26,6138.00,6136.46,6136.46

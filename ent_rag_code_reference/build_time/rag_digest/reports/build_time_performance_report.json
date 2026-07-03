@@ -1,0 +1,38 @@
+{
+  "total_build_time_seconds": 24.560870452005474,
+  "stage_times_seconds": {
+    "subsection_chunking": 4.624615861001075,
+    "semantic_chunking_metadata": 9.64225753100618,
+    "encoding_indexing": 9.03708744100004,
+    "artifact_export_visualization": 1.1651134030034882
+  },
+  "ram": {
+    "baseline_system_ram_mb": 1483.8359375,
+    "peak_system_ram_mb": 2421.65625,
+    "peak_system_ram_delta_mb": 937.8203125,
+    "baseline_process_rss_mb": 1003.875,
+    "peak_process_rss_mb": 2341.48046875,
+    "peak_process_rss_delta_mb": 1337.60546875
+  },
+  "vram": {
+    "cuda_available": true,
+    "baseline_vram_used_mb": 1571.5,
+    "peak_vram_used_mb": 2575.5,
+    "peak_vram_delta_mb": 1004.0,
+    "peak_torch_allocated_mb": 842.5595703125,
+    "peak_torch_reserved_mb": 932.0
+  },
+  "artifacts": {
+    "artifact_root": "/home/user/ent_rag/build_time/rag_digest",
+    "artifact_size_mb": 48.23841571807861
+  },
+  "output_counts": {
+    "subsection_count": 105,
+    "image_record_count": 85,
+    "table_record_count": 20,
+    "chunk_lookup_count": 245,
+    "image_lookup_count": 85,
+    "bge_embedding_rows": 245,
+    "clip_embedding_rows": 85
+  }
+}
