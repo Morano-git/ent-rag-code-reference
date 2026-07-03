@@ -11,11 +11,11 @@ Included files:
 - environment specifications
 - aggregate evaluation figures and tables
 - build-time aggregate reports
+- the ENT-QuAD dataset
 
 Restricted files are not redistributed in this repository. These include:
 - the source PDF
 - the locally transcribed/reformatted PDF
-- the ENT-QuAD dataset
 - generated RAG lookup tables
 - extracted raw images
 - FAISS indexes
