@@ -5,7 +5,7 @@ Run from the project root after running run_time_bootstrap.py:
         --server.address=127.0.0.1 \
         --server.port=8501
 
-This app is intentionally local-only. It does not use ngrok.
+This app is intentionally local-only.
 """
 
 from __future__ import annotations
@@ -21,7 +21,6 @@ from PIL import Image
 
 # -----------------------------------------------------------------------------
 # Import runtime modules
-# -----------------------------------------------------------------------------
 APP_DIR = Path(__file__).resolve().parent
 PROJECT_ROOT = APP_DIR
 RUNTIME_SCRIPT_DIR = PROJECT_ROOT / "run_time" / "scripts"
@@ -37,20 +36,17 @@ from session_module import ChatbotSession  # noqa: E402
 
 # -----------------------------------------------------------------------------
 # Page setup
-# -----------------------------------------------------------------------------
 st.set_page_config(
     page_title="ENT RAG SLM Chatbot",
     page_icon="🩺",
-    layout="wide",
 )
 
-st.title("ENT RAG SLM Chatbot")
-st.caption("Local Streamlit interface for the dissertation runtime chatbot.")
+st.title("RAG-Enhanced SLM Otolaryngology Chatbot")
+st.caption("The Running Prototype")
 
 
 # -----------------------------------------------------------------------------
 # Session-state helpers
-# -----------------------------------------------------------------------------
 def clear_cuda_cache() -> None:
     gc.collect()
     if torch.cuda.is_available():
@@ -85,7 +81,6 @@ def initialize_session(model_label: str, model_card: str) -> None:
 
 # -----------------------------------------------------------------------------
 # Sidebar controls
-# -----------------------------------------------------------------------------
 model_cards = SLM_CONFIG["MODEL_CARDS"]
 model_labels = list(model_cards.keys())
 
@@ -150,7 +145,6 @@ with st.sidebar:
 
 # -----------------------------------------------------------------------------
 # Model lifecycle
-# -----------------------------------------------------------------------------
 model_needs_loading = (
     "chatbot_session" not in st.session_state
     or st.session_state.get("active_model_card") != selected_model_card
@@ -167,7 +161,6 @@ session: ChatbotSession = st.session_state.chatbot_session
 
 # -----------------------------------------------------------------------------
 # Architecture routing
-# -----------------------------------------------------------------------------
 def build_generation_inputs(user_prompt: str):
     """Map the selected UI architecture to the session-level generate_response arguments."""
 
@@ -193,7 +186,6 @@ def build_generation_inputs(user_prompt: str):
 
 # -----------------------------------------------------------------------------
 # Chat history rendering
-# -----------------------------------------------------------------------------
 for message in session.chat_history:
     role = message.get("role", "assistant")
     content = message.get("content", "")
@@ -203,7 +195,6 @@ for message in session.chat_history:
 
 # -----------------------------------------------------------------------------
 # Chat input and streaming response
-# -----------------------------------------------------------------------------
 placeholder = {
     "SLM": "Ask an ENT question without retrieval...",
     "Text-RAG": "Ask an ENT question using text retrieval...",
