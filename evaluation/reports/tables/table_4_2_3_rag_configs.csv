@@ -1,0 +1,43 @@
+model_name,architecture_config,metric_label,mean,std,n
+Llama 3.2 1B,Text-RAG,Context Alignment,0.7441,0.0494,111
+Llama 3.2 1B,Text-RAG,Context Mean,0.7864,0.0547,111
+Llama 3.2 1B,Text-RAG,Context Resemblance,0.8287,0.0738,111
+Llama 3.2 1B,Text-RAG,Mean,0.8078,0.0446,111
+Llama 3.2 1B,Text-RAG,Response Alignment,0.8576,0.0736,111
+Llama 3.2 1B,Text-RAG,Response Mean,0.8292,0.0615,111
+Llama 3.2 1B,Text-RAG,Response Resemblance,0.8007,0.075,111
+Llama 3.2 1B,Image-Text-RAG,Context Alignment,0.7472,0.0476,111
+Llama 3.2 1B,Image-Text-RAG,Context Mean,0.7992,0.0436,111
+Llama 3.2 1B,Image-Text-RAG,Context Resemblance,0.8513,0.0575,111
+Llama 3.2 1B,Image-Text-RAG,Mean,0.8159,0.0366,111
+Llama 3.2 1B,Image-Text-RAG,Response Alignment,0.8579,0.0718,111
+Llama 3.2 1B,Image-Text-RAG,Response Mean,0.8326,0.0575,111
+Llama 3.2 1B,Image-Text-RAG,Response Resemblance,0.8073,0.0697,111
+Llama 3.2 1B,Image-RAG,Context Alignment,0.6854,0.0598,111
+Llama 3.2 1B,Image-RAG,Context Mean,0.7376,0.0585,111
+Llama 3.2 1B,Image-RAG,Context Resemblance,0.7899,0.077,111
+Llama 3.2 1B,Image-RAG,Mean,0.7871,0.04,111
+Llama 3.2 1B,Image-RAG,Response Alignment,0.8639,0.0573,111
+Llama 3.2 1B,Image-RAG,Response Mean,0.8365,0.0467,111
+Llama 3.2 1B,Image-RAG,Response Resemblance,0.8091,0.0636,111
+Llama 3.2 3B,Text-RAG,Context Alignment,0.7441,0.0494,111
+Llama 3.2 3B,Text-RAG,Context Mean,0.7864,0.0547,111
+Llama 3.2 3B,Text-RAG,Context Resemblance,0.8287,0.0738,111
+Llama 3.2 3B,Text-RAG,Mean,0.8168,0.0415,111
+Llama 3.2 3B,Text-RAG,Response Alignment,0.8671,0.0522,111
+Llama 3.2 3B,Text-RAG,Response Mean,0.8471,0.0412,111
+Llama 3.2 3B,Text-RAG,Response Resemblance,0.8271,0.0614,111
+Llama 3.2 3B,Image-Text-RAG,Context Alignment,0.7472,0.0476,111
+Llama 3.2 3B,Image-Text-RAG,Context Mean,0.7992,0.0436,111
+Llama 3.2 3B,Image-Text-RAG,Context Resemblance,0.8513,0.0575,111
+Llama 3.2 3B,Image-Text-RAG,Mean,0.8255,0.0341,111
+Llama 3.2 3B,Image-Text-RAG,Response Alignment,0.8701,0.0505,111
+Llama 3.2 3B,Image-Text-RAG,Response Mean,0.8518,0.0391,111
+Llama 3.2 3B,Image-Text-RAG,Response Resemblance,0.8335,0.0625,111
+Llama 3.2 3B,Image-RAG,Context Alignment,0.6854,0.0598,111
+Llama 3.2 3B,Image-RAG,Context Mean,0.7376,0.0585,111
+Llama 3.2 3B,Image-RAG,Context Resemblance,0.7899,0.077,111
+Llama 3.2 3B,Image-RAG,Mean,0.7926,0.0388,111
+Llama 3.2 3B,Image-RAG,Response Alignment,0.8652,0.0498,111
+Llama 3.2 3B,Image-RAG,Response Mean,0.8475,0.0405,111
+Llama 3.2 3B,Image-RAG,Response Resemblance,0.8299,0.0591,111
