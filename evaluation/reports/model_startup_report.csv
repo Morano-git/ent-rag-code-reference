@@ -1,3 +1,0 @@
-﻿time_total_s,ram_start_mb,ram_end_mb,ram_peak_mb,ram_delta_mb,vram_start_mb,vram_end_mb,vram_peak_mb,vram_delta_mb,torch_vram_allocated_start_mb,torch_vram_allocated_end_mb,torch_vram_allocated_peak_mb,torch_vram_allocated_delta_mb,success,error_type,error_message,model_name,model_card,event
-9.908024519001629,978.64453125,1347.4765625,3684.9453125,2706.30078125,1571.5,3931.5,3931.5,2360.0,0.0,2358.1298828125,2358.1298828125,2358.1298828125,True,,,Llama 3.2 1B,meta-llama/Llama-3.2-1B-Instruct,model_startup
-12.957870397000079,1921.921875,2099.921875,8224.1796875,6302.2578125,1669.5,7807.5,7807.5,6138.0,8.125,6136.4599609375,6136.4599609375,6128.3349609375,True,,,Llama 3.2 3B,meta-llama/Llama-3.2-3B-Instruct,model_startup
