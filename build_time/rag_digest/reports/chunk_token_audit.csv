@@ -1,0 +1,246 @@
+chunk_id,subsection_key,vector_index,token_count,max_seq_length,exceeds_encoder_limit,char_count
+1,"000::Ear, Nose and Throat: The Official Handbook for Medical Students and Junior Doctors",0,104,512,False,358
+2,001::Authors and Editors,1,48,512,False,202
+3,002::Contents,2,562,512,True,1859
+4,002::Contents,3,167,512,False,581
+5,003::Introduction,4,3,512,False,12
+6,004::Preface,5,212,512,False,1068
+7,004::Preface,6,138,512,False,553
+8,005::Foreword,7,278,512,False,1370
+9,005::Foreword,8,32,512,False,105
+10,"006::A Career in Ear, Nose and Throat Surgery",9,75,512,False,331
+11,"006::A Career in Ear, Nose and Throat Surgery",10,142,512,False,665
+12,007::Further Information,11,198,512,False,614
+13,008::Generic Skills in ENT,12,7,512,False,21
+14,009::General ENT History,13,49,512,False,251
+15,009::General ENT History,14,319,512,False,1525
+16,010::Ear examination,15,338,512,False,1451
+17,010::Ear examination,16,385,512,False,1662
+18,010::Ear examination,17,668,512,True,2732
+19,010::Ear examination,18,68,512,False,257
+20,011::Nasal Examination,19,792,512,True,3560
+21,011::Nasal Examination,20,167,512,False,718
+22,011::Nasal Examination,21,48,512,False,196
+23,011::Nasal Examination,22,190,512,False,794
+24,012::Neck and thyroid status exam,23,455,512,False,1984
+25,012::Neck and thyroid status exam,24,65,512,False,305
+26,012::Neck and thyroid status exam,25,351,512,False,1285
+27,012::Neck and thyroid status exam,26,17,512,False,61
+28,013::Cranial Nerves Examination,27,20,512,False,102
+29,013::Cranial Nerves Examination,28,412,512,False,1755
+30,013::Cranial Nerves Examination,29,290,512,False,1106
+31,014::Otology,30,4,512,False,7
+32,015::Ear Anatomy,31,413,512,False,1544
+33,015::Ear Anatomy,32,645,512,True,2644
+34,015::Ear Anatomy,33,56,512,False,185
+35,015::Ear Anatomy,34,176,512,False,784
+36,016::Dizziness and Vertigo,35,458,512,False,2138
+37,016::Dizziness and Vertigo,36,8,512,False,47
+38,016::Dizziness and Vertigo,37,379,512,False,1719
+39,017::Hearing Loss,38,433,512,False,1684
+40,017::Hearing Loss,39,16,512,False,62
+41,017::Hearing Loss,40,305,512,False,1360
+42,018::Tinnitus,41,488,512,False,2113
+43,018::Tinnitus,42,15,512,False,34
+44,018::Tinnitus,43,288,512,False,1278
+45,019::Facial Nerve Palsy,44,408,512,False,1729
+46,019::Facial Nerve Palsy,45,45,512,False,187
+47,019::Facial Nerve Palsy,46,166,512,False,700
+48,020::Otalgia,47,58,512,False,262
+49,020::Otalgia,48,503,512,False,2078
+50,021::Otorrhoea,49,308,512,False,1275
+51,021::Otorrhoea,50,212,512,False,929
+52,022::Otitis Externa,51,111,512,False,465
+53,022::Otitis Externa,52,506,512,False,2070
+54,022::Otitis Externa,53,20,512,False,49
+55,023::Acute Otitis Media,54,79,512,False,325
+56,023::Acute Otitis Media,55,442,512,False,1717
+57,023::Acute Otitis Media,56,53,512,False,188
+58,024::Otitis Media with Effusion (OME),57,196,512,False,780
+59,024::Otitis Media with Effusion (OME),58,15,512,False,70
+60,024::Otitis Media with Effusion (OME),59,360,512,False,1392
+61,025::Chronic Otitis Media,60,67,512,False,272
+62,025::Chronic Otitis Media,61,358,512,False,1408
+63,026::Cholesteatoma,62,507,512,False,2237
+64,026::Cholesteatoma,63,132,512,False,577
+65,027::Rhinology,64,4,512,False,9
+66,028::Nasal Function and Anatomy,65,165,512,False,665
+67,028::Nasal Function and Anatomy,66,839,512,True,3649
+68,028::Nasal Function and Anatomy,67,442,512,False,2031
+69,028::Nasal Function and Anatomy,68,198,512,False,893
+70,028::Nasal Function and Anatomy,69,151,512,False,665
+71,029::Nasal obstruction,70,112,512,False,575
+72,029::Nasal obstruction,71,184,512,False,608
+73,030::Fractured Nose,72,319,512,False,1421
+74,030::Fractured Nose,73,165,512,False,744
+75,031::Septoplasty/Septorhinoplasty,74,158,512,False,634
+76,031::Septoplasty/Septorhinoplasty,75,65,512,False,328
+77,032::Rhinitis and Rhinosinusitis,76,67,512,False,281
+78,032::Rhinitis and Rhinosinusitis,77,72,512,False,321
+79,033::Allergic Rhinitis,78,287,512,False,1207
+80,033::Allergic Rhinitis,79,221,512,False,840
+81,033::Allergic Rhinitis,80,114,512,False,479
+82,033::Allergic Rhinitis,81,324,512,False,1242
+83,034::Non-Allergic Rhinitis,82,221,512,False,930
+84,034::Non-Allergic Rhinitis,83,137,512,False,571
+85,035::Acute Rhinosinusitis (ARS),84,296,512,False,1298
+86,035::Acute Rhinosinusitis (ARS),85,801,512,True,3273
+87,035::Acute Rhinosinusitis (ARS),86,98,512,False,414
+88,035::Acute Rhinosinusitis (ARS),87,287,512,False,1230
+89,035::Acute Rhinosinusitis (ARS),88,167,512,False,781
+90,036::Nasal Polyps,89,287,512,False,1255
+91,036::Nasal Polyps,90,167,512,False,800
+92,037::Other Sinonasal Lesions,91,217,512,False,912
+93,037::Other Sinonasal Lesions,92,98,512,False,412
+94,037::Other Sinonasal Lesions,93,235,512,False,983
+95,038::Cleft Lip and Palate,94,138,512,False,631
+96,038::Cleft Lip and Palate,95,244,512,False,1138
+97,039::Head and Neck,96,5,512,False,13
+98,040::Head and Neck Anatomy,97,42,512,False,205
+99,040::Head and Neck Anatomy,98,26,512,False,130
+100,041::Facial Muscles,99,99,512,False,446
+101,041::Facial Muscles,100,303,512,False,1368
+102,042::The Major Salivary Glands,101,77,512,False,343
+103,042::The Major Salivary Glands,102,79,512,False,339
+104,043::Oral Cavity,103,61,512,False,302
+105,043::Oral Cavity,104,460,512,False,1891
+106,043::Oral Cavity,105,100,512,False,426
+107,044::Topography of the Neck,106,414,512,False,1897
+108,044::Topography of the Neck,107,31,512,False,118
+109,045::Fascial Layers of the Neck,108,191,512,False,740
+110,045::Fascial Layers of the Neck,109,45,512,False,136
+111,046::Nervous Supply of the Head and Neck,110,252,512,False,990
+112,046::Nervous Supply of the Head and Neck,111,271,512,False,1042
+113,046::Nervous Supply of the Head and Neck,112,56,512,False,211
+114,046::Nervous Supply of the Head and Neck,113,500,512,False,1892
+115,047::Physiology of Swallowing,114,160,512,False,662
+116,047::Physiology of Swallowing,115,124,512,False,470
+117,048::Taking History of a Neck Lump,116,219,512,False,972
+118,048::Taking History of a Neck Lump,117,9,512,False,31
+119,048::Taking History of a Neck Lump,118,132,512,False,492
+120,049::Causes of Neck Lump,119,204,512,False,643
+121,049::Causes of Neck Lump,120,23,512,False,90
+122,050::Branchial Cysts,121,93,512,False,460
+123,050::Branchial Cysts,122,7,512,False,28
+124,051::Dysphagia,123,182,512,False,737
+125,051::Dysphagia,124,244,512,False,796
+126,052::Dysphonia,125,182,512,False,601
+127,052::Dysphonia,126,123,512,False,503
+128,053::Tonsillitis,127,489,512,False,1857
+129,053::Tonsillitis,128,11,512,False,24
+130,053::Tonsillitis,129,234,512,False,996
+131,054::Pharyngeal Pouch,130,108,512,False,375
+132,054::Pharyngeal Pouch,131,302,512,False,1211
+133,055::Globus Pharyngeus,132,99,512,False,367
+134,055::Globus Pharyngeus,133,95,512,False,420
+135,056::Thyroid Masses,134,171,512,False,739
+136,056::Thyroid Masses,135,114,512,False,476
+137,057::Thyroglossal cyst or sinus,136,166,512,False,665
+138,057::Thyroglossal cyst or sinus,137,132,512,False,556
+139,057::Thyroglossal cyst or sinus,138,82,512,False,344
+140,058::Multinodular goitre,139,161,512,False,604
+141,058::Multinodular goitre,140,129,512,False,545
+142,058::Multinodular goitre,141,79,512,False,342
+143,059::Thyroid cancer,142,453,512,False,1933
+144,059::Thyroid cancer,143,254,512,False,940
+145,059::Thyroid cancer,144,12,512,False,29
+146,059::Thyroid cancer,145,707,512,True,2894
+147,059::Thyroid cancer,146,103,512,False,396
+148,060::Benign and Malignant Neoplasms of the Salivary Glands,147,355,512,False,1370
+149,060::Benign and Malignant Neoplasms of the Salivary Glands,148,72,512,False,309
+150,060::Benign and Malignant Neoplasms of the Salivary Glands,149,145,512,False,556
+151,061::Carcinoma of the Oral Cavity,150,77,512,False,291
+152,061::Carcinoma of the Oral Cavity,151,439,512,False,1896
+153,061::Carcinoma of the Oral Cavity,152,7,512,False,27
+154,062::Carcinoma of the Pharynx,153,99,512,False,321
+155,063::Carcinoma of the Nasopharynx,154,193,512,False,790
+156,063::Carcinoma of the Nasopharynx,155,90,512,False,389
+157,064::Carcinoma of the Oropharynx,156,221,512,False,882
+158,064::Carcinoma of the Oropharynx,157,59,512,False,212
+159,065::Carcinoma of the Hypopharynx,158,62,512,False,224
+160,065::Carcinoma of the Hypopharynx,159,195,512,False,798
+161,066::Carcinoma of the Larynx,160,189,512,False,621
+162,066::Carcinoma of the Larynx,161,27,512,False,106
+163,066::Carcinoma of the Larynx,162,278,512,False,1042
+164,067::Laryngopharyngeal reflux (LPR),163,311,512,False,1296
+165,067::Laryngopharyngeal reflux (LPR),164,127,512,False,698
+166,068::Snoring and Obstructive Sleep Apnoea (OSA),165,370,512,False,1517
+167,068::Snoring and Obstructive Sleep Apnoea (OSA),166,344,512,False,1547
+168,068::Snoring and Obstructive Sleep Apnoea (OSA),167,124,512,False,650
+169,069::ENT Emergencies,168,5,512,False,15
+170,070::Acute Airway Obstruction,169,231,512,False,927
+171,070::Acute Airway Obstruction,170,158,512,False,644
+172,070::Acute Airway Obstruction,171,601,512,True,2438
+173,070::Acute Airway Obstruction,172,125,512,False,435
+174,071::Epistaxis (Nose Bleed),173,323,512,False,1291
+175,071::Epistaxis (Nose Bleed),174,118,512,False,514
+176,071::Epistaxis (Nose Bleed),175,180,512,False,834
+177,072::Foreign body in the nose,176,184,512,False,817
+178,072::Foreign body in the nose,177,7,512,False,19
+179,073::Nasal septum haematoma,178,87,512,False,342
+180,073::Nasal septum haematoma,179,90,512,False,415
+181,074::Foreign body in the ear,180,132,512,False,622
+182,074::Foreign body in the ear,181,31,512,False,110
+183,075::Perforated Tympanic Membrane,182,103,512,False,380
+184,075::Perforated Tympanic Membrane,183,143,512,False,608
+185,076::FB in the pharynx or oesophagus,184,158,512,False,604
+186,076::FB in the pharynx or oesophagus,185,208,512,False,904
+187,077::Deep neck space infections,186,238,512,False,1031
+188,077::Deep neck space infections,187,251,512,False,1057
+189,077::Deep neck space infections,188,7,512,False,16
+190,078::Penetrating neck trauma,189,47,512,False,218
+191,078::Penetrating neck trauma,190,451,512,False,1901
+192,079::Medications in ENT,191,6,512,False,18
+193,080::Antibiotics,192,210,512,False,848
+194,080::Antibiotics,193,185,512,False,641
+195,081::Steroids,194,58,512,False,257
+196,081::Steroids,195,302,512,False,1411
+197,082::Antihistamines,196,61,512,False,266
+198,082::Antihistamines,197,51,512,False,215
+199,083::Vestibular sedatives and Meniere’s disease,198,117,512,False,509
+200,083::Vestibular sedatives and Meniere’s disease,199,172,512,False,684
+201,084::Practical Procedures in ENT,200,7,512,False,27
+202,085::Nasal Cautery,201,294,512,False,1232
+203,085::Nasal Cautery,202,33,512,False,119
+204,086::Anterior Nasal Packing,203,350,512,False,1683
+205,086::Anterior Nasal Packing,204,153,512,False,743
+206,086::Anterior Nasal Packing,205,32,512,False,137
+207,087::Nasendoscopy,206,77,512,False,309
+208,087::Nasendoscopy,207,466,512,False,2093
+209,087::Nasendoscopy,208,65,512,False,314
+210,088::Oto-Microscopy and Foreign Body Removal,209,51,512,False,252
+211,088::Oto-Microscopy and Foreign Body Removal,210,346,512,False,1617
+212,089::ENT Investigations,211,5,512,False,18
+213,090::Pure Tone Audiometry,212,41,512,False,198
+214,090::Pure Tone Audiometry,213,334,512,False,1495
+215,091::Audiogram Case Study 1,214,43,512,False,179
+216,091::Audiogram Case Study 1,215,138,512,False,634
+217,092::Audiogram Case Study 2,216,95,512,False,442
+218,092::Audiogram Case Study 2,217,55,512,False,261
+219,093::Tympanometry,218,156,512,False,742
+220,093::Tympanometry,219,207,512,False,810
+221,094::Hearing Tests In Children,220,166,512,False,819
+222,094::Hearing Tests In Children,221,86,512,False,389
+223,094::Hearing Tests In Children,222,159,512,False,763
+224,095::ENT Operations,223,5,512,False,14
+225,096::Grommet Insertion,224,38,512,False,169
+226,096::Grommet Insertion,225,374,512,False,1528
+227,097::Middle ear and Mastoid surgery,226,359,512,False,1406
+228,097::Middle ear and Mastoid surgery,227,182,512,False,778
+229,097::Middle ear and Mastoid surgery,228,94,512,False,423
+230,098::Tonsillectomy,229,130,512,False,495
+231,098::Tonsillectomy,230,386,512,False,1650
+232,099::Adenoidectomy,231,186,512,False,738
+233,099::Adenoidectomy,232,115,512,False,484
+234,100::Functional Endoscopic Sinus Surgery (FESS),233,427,512,False,1869
+235,100::Functional Endoscopic Sinus Surgery (FESS),234,103,512,False,503
+236,101::Parotidectomy,235,499,512,False,2256
+237,101::Parotidectomy,236,23,512,False,105
+238,102::Thyroidectomy,237,83,512,False,348
+239,102::Thyroidectomy,238,262,512,False,1213
+240,102::Thyroidectomy,239,220,512,False,981
+241,103::Neck Dissection,240,117,512,False,454
+242,103::Neck Dissection,241,129,512,False,509
+243,104::Surgical Tracheostomy,242,160,512,False,745
+244,104::Surgical Tracheostomy,243,267,512,False,1148
+245,104::Surgical Tracheostomy,244,307,512,False,1314
