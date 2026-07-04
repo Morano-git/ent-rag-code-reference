@@ -1,0 +1,937 @@
+{
+  "0": {
+    "figure_id": 1,
+    "caption": "Figure 1: Correct positioning of a child for exam",
+    "neighbor_passages": {
+      "antecedent": "Ear examination\nBefore starting\n● Gel/wash your hands.\n● Introduce yourself and ensure the patient is comfortable.\n● Ask about any pain or tenderness.\n● The patient should be positioned on the chair and you should place yourself to the side of the patient. In children, positioning is even more important. Children should be seated across the parent/nurse’s lap, with the side of the head held to the chest by the carer’s hand (See Figure 1) Flailing arms can be secured with the carer’s other hand. Ideally, aim to examine children as opportunistically as possible and incorporate play as part of the examination.",
+      "subsequent": "Inspection\n● From the front: note the size, assess symmetry of the pinna. Are there differing degrees of protrusion? Is there an obviously abnormal pinna? For example, see Figure 2."
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p016_img0001.png",
+    "vector_index": 0,
+    "subsection_key": "010::Ear examination"
+  },
+  "1": {
+    "figure_id": 2,
+    "caption": "Figure 2: Congenital Microtia of the External Auditory Canal",
+    "neighbor_passages": {
+      "antecedent": "Inspection\n● From the front: note the size, assess symmetry of the pinna. Are there differing degrees of protrusion? Is there an obviously abnormal pinna? For example, see Figure 2.",
+      "subsequent": "● Inspect each ear individually - Start with the normal ear.\n● Pre-auricular - Inspect for scars (previous parotidectomy or middle ear surgery), swelling (infection, parotid tumour), erythema (infection/inflammation), sinuses, pits, fistulae.\n● Pinna - Note any signs of erythema, swelling (infection, haematoma) or tenderness.\n● Post-auricular - Move pinna anteriorly to inspect behind the pinna. Note any post-auricular scars. Acute and/or painful swelling here suggests infection (mastoiditis or lymphadenitis).\n● Examine the other ear. Note any difference."
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p017_img0002.png",
+    "vector_index": 1,
+    "subsection_key": "010::Ear examination"
+  },
+  "2": {
+    "figure_id": 3,
+    "caption": "Figure 3: Normal right tympanic membrane",
+    "neighbor_passages": {
+      "antecedent": "Otoscopy\n● Ensure the otoscope has good magnification and illumination. Use the largest speculum that will fit comfortably in the external auditory canal (EAC).\n● Start with the “normal” ear.\n● Gently pull the pinna upwards and backwards to straighten the ear canal to best visualize the tympanic membrane. In children, pulling the pinna downwards and backwards may provide better visualization.\n● Hold the otoscope like a pencil and use your little finger as a fulcrum against the cheek to avoid injury should the patient move suddenly.\n● Inspect systematically",
+      "subsequent": "● External auditory canal: Wax or discharge, erythema, swelling (infection, trauma)\n● Tympanic membrane (See Figure 3): Is there a normal light reflex in the anteroinferior quadrant? Colour of drum - Normal is greyish & translucent. pink/red colouring can mean infection/inflammation and white plaques can indicate tympanosclerosis. Position of drum - Retracted (cholesteatoma, infection), bulging (infection), perforation."
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p018_img0003.png",
+    "vector_index": 2,
+    "subsection_key": "010::Ear examination"
+  },
+  "3": {
+    "figure_id": 4,
+    "caption": "Figure 4: Weber’s test",
+    "neighbor_passages": {
+      "antecedent": "Weber’s Test",
+      "subsequent": "● Vibrating 512 Hz tuning fork applied firmly to the midline of the forehead, apex of head (see Figure 4)\n● Ask the patient if he/she can hear a tone in the right ear, left ear or center of the head.\n● The “louder” ear may be due to conductive hearing loss in that ear (sound travels through the bone), or sensorineural hearing loss in the other ear.\n● You can work out which this is by performing Rinne’s test."
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p020_img0004.png",
+    "vector_index": 3,
+    "subsection_key": "010::Ear examination"
+  },
+  "4": {
+    "figure_id": 5,
+    "caption": "Figure 5: Rinne’s test",
+    "neighbor_passages": {
+      "antecedent": "Rinne’s test",
+      "subsequent": "● Place a vibrating tuning fork with base on mastoid process (position 1, testing bone conduction). See Figure 5\n● Then move the tuning fork so its prongs are adjacent to (but not touching) the external auditory meatus (position 2, testing air conduction).\n● Ask the patient to tell you which is louder, when the fork is placed behind the ear or in front of the ear.\n● Position 2 is louder than position 1 in the normal ear (Positive Rinne), as an intact hearing apparatus of the external and middle ear amplifies sound. When position 2 is quieter than position 1, (Negative Rinne), this indicates external or middle ear disease affecting the air conduction."
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p021_img0005.png",
+    "vector_index": 4,
+    "subsection_key": "010::Ear examination"
+  },
+  "5": {
+    "figure_id": 6,
+    "caption": "Figure 6: Separation of the nose into bony pyramid, cartilaginous pyramid and lobule. The upper third mostly composed of bony vault, middle third made up of dorsal septum and upper lateral cartilages, and lower third or nasal tip composed primarily of lower lateral cartilages, septum and soft tissue).",
+    "neighbor_passages": {
+      "antecedent": "Inspection\n● From the front: shape change, deviation from the midline, symmetry of one side to another, scars, skin changes.\n● It is often easier to split the nose into thirds when describing shape or deviations, (see Figure 6 and Figure 7).",
+      "subsequent": "● From the side (the side or dorsal profile of the nose): can comment on shape, hump (protruding bump) or collapse (sunken in), projection (how far the nose sticks out from the face) and rotation of the tip (whether the tip of the nose is pointing up or drooping down). When performing advanced assessment of the nose, e.g for cosmetic analysis, then angles and measurements of the nose in relation to the surrounding face become more important.\n● From below - look for symmetry, deviations and scars of previous surgery."
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p023_img0006.png",
+    "vector_index": 5,
+    "subsection_key": "011::Nasal Examination"
+  },
+  "6": {
+    "figure_id": 7,
+    "caption": "Figure 7: Upper, middle and lower thirds of the nose.",
+    "neighbor_passages": {
+      "antecedent": "Inspection\n● From the front: shape change, deviation from the midline, symmetry of one side to another, scars, skin changes.\n● It is often easier to split the nose into thirds when describing shape or deviations, (see Figure 6 and Figure 7).",
+      "subsequent": "● From the side (the side or dorsal profile of the nose): can comment on shape, hump (protruding bump) or collapse (sunken in), projection (how far the nose sticks out from the face) and rotation of the tip (whether the tip of the nose is pointing up or drooping down). When performing advanced assessment of the nose, e.g for cosmetic analysis, then angles and measurements of the nose in relation to the surrounding face become more important.\n● From below - look for symmetry, deviations and scars of previous surgery."
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p024_img0007.png",
+    "vector_index": 6,
+    "subsection_key": "011::Nasal Examination"
+  },
+  "7": {
+    "figure_id": 8,
+    "caption": "Figure 8: How to perform anterior rhinoscopy with a Thudicum’s speculum.",
+    "neighbor_passages": {
+      "antecedent": "How to hold a Thudicum’s speculum",
+      "subsequent": "The speculum is held from the tip of the index finger of the left hand with the tines facing the patient. The middle finger goes in the front and the ring finger behind, with the thumb pressed firmly on top to support the speculum. The hand is then twisted, and pressure is then used between the middle and ring fingers to open and close the speculum."
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p025_img0008.png",
+    "vector_index": 7,
+    "subsection_key": "011::Nasal Examination"
+  },
+  "8": {
+    "figure_id": 9,
+    "caption": "Figure 9: Septal deviation to the right",
+    "neighbor_passages": {
+      "antecedent": "Look especially for these common pathological findings:\n● Septal deviations (see Figure 9)\n● Evidence of swelling (rhinitis causing enlarged inferior turbinates, oedema and clear rhinorrhoea - Figure 10)\n● Septal perforations (holes in the cartilage - see Figure 11)\n● Prominent blood vessels (see Figure 12)\n● Polyps in middle meatus/nasal airway (see Figure 13)",
+      "subsequent": "Other nasal tests"
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p026_img0009.png",
+    "vector_index": 8,
+    "subsection_key": "011::Nasal Examination"
+  },
+  "9": {
+    "figure_id": 10,
+    "caption": "Figure 10: Right Inferior Turbinate swelling due to allergic rhinitis",
+    "neighbor_passages": {
+      "antecedent": "Look especially for these common pathological findings:\n● Septal deviations (see Figure 9)\n● Evidence of swelling (rhinitis causing enlarged inferior turbinates, oedema and clear rhinorrhoea - Figure 10)\n● Septal perforations (holes in the cartilage - see Figure 11)\n● Prominent blood vessels (see Figure 12)\n● Polyps in middle meatus/nasal airway (see Figure 13)",
+      "subsequent": "Other nasal tests"
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p027_img0010.png",
+    "vector_index": 9,
+    "subsection_key": "011::Nasal Examination"
+  },
+  "10": {
+    "figure_id": 11,
+    "caption": "Figure 11: Septal perforation when viewed through the right nasal airway",
+    "neighbor_passages": {
+      "antecedent": "Look especially for these common pathological findings:\n● Septal deviations (see Figure 9)\n● Evidence of swelling (rhinitis causing enlarged inferior turbinates, oedema and clear rhinorrhoea - Figure 10)\n● Septal perforations (holes in the cartilage - see Figure 11)\n● Prominent blood vessels (see Figure 12)\n● Polyps in middle meatus/nasal airway (see Figure 13)",
+      "subsequent": "Other nasal tests"
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p027_img0011.png",
+    "vector_index": 10,
+    "subsection_key": "011::Nasal Examination"
+  },
+  "11": {
+    "figure_id": 12,
+    "caption": "Figure 12: Prominent blood vessels overlying right Little’s area (anterior septum)",
+    "neighbor_passages": {
+      "antecedent": "Look especially for these common pathological findings:\n● Septal deviations (see Figure 9)\n● Evidence of swelling (rhinitis causing enlarged inferior turbinates, oedema and clear rhinorrhoea - Figure 10)\n● Septal perforations (holes in the cartilage - see Figure 11)\n● Prominent blood vessels (see Figure 12)\n● Polyps in middle meatus/nasal airway (see Figure 13)",
+      "subsequent": "Other nasal tests"
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p028_img0012.png",
+    "vector_index": 11,
+    "subsection_key": "011::Nasal Examination"
+  },
+  "12": {
+    "figure_id": 13,
+    "caption": "Figure 13: Left-sided inflammatory nasal polyp",
+    "neighbor_passages": {
+      "antecedent": "Look especially for these common pathological findings:\n● Septal deviations (see Figure 9)\n● Evidence of swelling (rhinitis causing enlarged inferior turbinates, oedema and clear rhinorrhoea - Figure 10)\n● Septal perforations (holes in the cartilage - see Figure 11)\n● Prominent blood vessels (see Figure 12)\n● Polyps in middle meatus/nasal airway (see Figure 13)",
+      "subsequent": "Other nasal tests"
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p028_img0013.png",
+    "vector_index": 12,
+    "subsection_key": "011::Nasal Examination"
+  },
+  "13": {
+    "figure_id": 14,
+    "caption": "Figure 14: Cold spatula misting test. The humidified expired air creates a mist on the cold metal tongue depressor. Due to its simplicity and lack of invasiveness, it is especially useful to assess bilateral nasal patency in paediatric patients.",
+    "neighbor_passages": {
+      "antecedent": "1. Nasal misting Perform nasal misting with a Lack’s cold metal tongue depressor (see Figure 14)",
+      "subsequent": "2. Cottles & Modified Cottles Test Perform Cottle’s & Modified Cottle’s Test using a Jobson-Horne probe/ear curette for external/internal nasal valve patency +/- alar collapse (Figure 15)."
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p029_img0014.png",
+    "vector_index": 13,
+    "subsection_key": "011::Nasal Examination"
+  },
+  "14": {
+    "figure_id": 15,
+    "caption": "Figure 15: Modified Cottle’s test",
+    "neighbor_passages": {
+      "antecedent": "2. Cottles & Modified Cottles Test Perform Cottle’s & Modified Cottle’s Test using a Jobson-Horne probe/ear curette for external/internal nasal valve patency +/- alar collapse (Figure 15).",
+      "subsequent": "Modified Cottle’s Test which involves placing a Jobson Horne probe under the lower end of the upper lateral cartilage and opening out the internal nasal valve (the narrowest point of the nasal airway) which can be narrowed by septal deviations, enlarged inferior turbinates or collapsed nasal cartilages. The original Cottle’s maneuver described pulling the side of the face outwards to try and relieve the nasal obstruction, but this was not always deemed a reliable method of assessment."
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p030_img0015.png",
+    "vector_index": 14,
+    "subsection_key": "011::Nasal Examination"
+  },
+  "15": {
+    "figure_id": 16,
+    "caption": "Figure 16: Endoscopic view of the right anterior nasal cavity.",
+    "neighbor_passages": {
+      "antecedent": "There main area of examination are as follows:",
+      "subsequent": null
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p031_img0016.png",
+    "vector_index": 15,
+    "subsection_key": "011::Nasal Examination"
+  },
+  "16": {
+    "figure_id": 17,
+    "caption": "Figure 17: Endoscopic view of the right middle metal region.",
+    "neighbor_passages": {
+      "antecedent": "There main area of examination are as follows:",
+      "subsequent": null
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p032_img0017.png",
+    "vector_index": 16,
+    "subsection_key": "011::Nasal Examination"
+  },
+  "17": {
+    "figure_id": 18,
+    "caption": "Figure 18: Endoscopic view of the right post-nasal space. The Eustachian tube orifice is where the middle ear drains down into the nasal cavity. The Fossa of Rosenmueller is an important place to check for pathology such as nasopharyngeal carcinoma.",
+    "neighbor_passages": {
+      "antecedent": "There main area of examination are as follows:",
+      "subsequent": null
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p033_img0018.png",
+    "vector_index": 17,
+    "subsection_key": "011::Nasal Examination"
+  },
+  "18": {
+    "figure_id": 19,
+    "caption": "Figure 19: Correct hand position for thyroid examination",
+    "neighbor_passages": {
+      "antecedent": "Palpation",
+      "subsequent": "● You should examine the patient from behind. You may be able to note proptosis of the eyes (Graves’ disease).\n● Fingers are more sensitive than thumbs so use your fingertips to palpate the neck, rolling tissues and compressing them gently (Figure 19).\n● Ask the patient to swallow a sip of water. If the mass moves upwards with swallowing it suggests thyroid origin.\n● Ask the patient to stick out their tongue- a midline lump moving up suggests a thyroglossal cyst."
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p034_img0019.png",
+    "vector_index": 18,
+    "subsection_key": "012::Neck and thyroid status exam"
+  },
+  "19": {
+    "figure_id": 20,
+    "caption": "Figure 20: Thyroid acropachy.",
+    "neighbor_passages": {
+      "antecedent": "Hands and arms\n● Examine for tremor (hyperthyroidism) by asking the patient to put arms outstretched.\n● Inspect the nails for thyroid acropachy (similar to clubbing, hyperthyroid - see Figure 20), and palmar erythema (hyperthyroid).\n● Feel the temperature of hands and presence of sweating (hyperthyroid).\n● Take the pulse. Atrial fibrillation, tachycardia (hyperthyroid), bradycardia (hypothyroid).",
+      "subsequent": "Face\n● “Peaches and cream” complexion of hypothyroidism.\n● Loss of outer 1/3 of eye brows (hypothyroidism).\n● Graves’ ophthalmopathy (see Figure 21), proptosis, chemosis, and injection of sclera in severe disease.\n● Examine the eye movements for dysconjugate gaze (indicator of severe disease).\n● Examine for lid lag (sympathomimetic effect of thyrotoxicosis)."
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p036_img0020.png",
+    "vector_index": 19,
+    "subsection_key": "012::Neck and thyroid status exam"
+  },
+  "20": {
+    "figure_id": 21,
+    "caption": "Figure 21: Proptosis secondary to thyroid eye disease.",
+    "neighbor_passages": {
+      "antecedent": "Face\n● “Peaches and cream” complexion of hypothyroidism.\n● Loss of outer 1/3 of eye brows (hypothyroidism).\n● Graves’ ophthalmopathy (see Figure 21), proptosis, chemosis, and injection of sclera in severe disease.\n● Examine the eye movements for dysconjugate gaze (indicator of severe disease).\n● Examine for lid lag (sympathomimetic effect of thyrotoxicosis).",
+      "subsequent": "Legs\n● Inspect for pre-tibial myxedema which is present in hypothyroidism\n● Check the ankle reflexes- brisk in hyperthyroidism, and the opposite in hypothyroidism"
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p037_img0021.png",
+    "vector_index": 20,
+    "subsection_key": "012::Neck and thyroid status exam"
+  },
+  "21": {
+    "figure_id": 22,
+    "caption": "Figure 22: External auditory canal and middle ear (Elf-ENT)",
+    "neighbor_passages": {
+      "antecedent": "Ear Anatomy The ear is subdivided into 3 main parts: 1) the external ear 2) the middle ear 3) the inner ear (Figure 22).",
+      "subsequent": "1. The External Ear The external ear canal consists of the pinna (auricle) and the external auditory canal."
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p043_img0022.png",
+    "vector_index": 21,
+    "subsection_key": "015::Ear Anatomy"
+  },
+  "22": {
+    "figure_id": 23,
+    "caption": "Figure 23: Anatomy of the pinna (reproduced with permission from Otolaryngology Houston, www.ghoryeb.com)",
+    "neighbor_passages": {
+      "antecedent": "Pinna (auricle)\n● The pinna consists of elastic cartilage, thrown into folds (see Figure 23), and a fibrofatty lobule.\n● It is supplied by the greater auricular nerve, lesser occipital and facial nerve.",
+      "subsequent": "Nerve supply of the pinna\nLateral\n● Anterosuperior - Auriculotemporal nerve (V3);\n● Anteroinferior - Great auricular nerve (C2/3);\n● Posterior - Lesser occipital nerve (C2);\n● Conchal bowl and ear canal - Auricular branch of vagus nerve. Medial\n● Greater auricular nerve (C2/3) and lesser occipital nerve (C2).\n● External Auditory Canal (EAC).\n● It is an oblique tube - 3 cm in length. The outer 1/3 is cartilage, and inner 2/3 is bony.\n● Ceruminous glands only exist in the outer 1/3. These glands secrete wax.\n● The tympanic membrane forms the medial boundary of the canal."
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p044_img0023.png",
+    "vector_index": 22,
+    "subsection_key": "015::Ear Anatomy"
+  },
+  "23": {
+    "figure_id": 24,
+    "caption": "Figure 24: Cauliflower ear (reproduced with permission from Otolaryngology Houston, www.ghoryeb.com).",
+    "neighbor_passages": {
+      "antecedent": "Clinically important point: Cauliflower ear The cartilage derives its nutritional support from the overlying perichondrium. Separation of the two layers (with blood, infection or inflammation often following trauma) may result in cartilage necrosis resulting in a cauliflower ear (see Figure 24).",
+      "subsequent": "Nerve supply of the external ear canal The auriculotemporal nerve and the auricular branch of the vagus nerve."
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p045_img0024.png",
+    "vector_index": 23,
+    "subsection_key": "015::Ear Anatomy"
+  },
+  "24": {
+    "figure_id": 25,
+    "caption": "Figure 25: A labelled picture of the left tympanic membrane.",
+    "neighbor_passages": {
+      "antecedent": "2. The Middle Ear\n● The middle ear is an air-containing cavity held within the temporal bone and it is lined with mucous membrane. It also communicates with the nasopharynx via the Eustachian tube. The function of the middle ear is mainly to amplify and transmit sound energy.\n● The tympanic membrane forms the lateral boundary of the middle ear cavity. It is a circular shape and roughly 1cm in greatest diameter. It is innervated on the outer surface by the auriculotemporal nerve and the auricular branch of the vagus. Figure 25 illustrates the component of the tympanic membrane. The membrane is normally greyish/ pinkish in colour. When the membrane is examined with an otoscope, the concavity of the structure produces a cone reflex in the anteroinferior quadrant.\n● The tip of the handle of malleus forms the deepest concavity of the membrane called the umbo, which is where the cone of light radiates from. The pars flaccida is the weakest and most flaccid area of the tympanic membrane. It plays a vital role in the pathophysiology of cholesteatoma. The pars tensa forms the remainder of the tympanic membrane.",
+      "subsequent": "The middle ear structures include:\n● Ossicles - Malleus, incus and stapes (Figures 26, 27, 28). The malleus is the largest ossicle. The lateral process of the malleus is attached to the tympanic membrane. The head articulates with the body of the incus. The long process of the incus articulates with the head of the stapes. The stapes structure includes two limbs (anterior crus and posterior crus), which are attached to the oval window footplate;\n● The tensor tympani and stapedius muscles: these are attached to the ossicles to regulate their movement;\n● Chorda tympani (provides taste to anterior two-thirds of the tongue);\n● Facial nerve."
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p046_img0025.png",
+    "vector_index": 24,
+    "subsection_key": "015::Ear Anatomy"
+  },
+  "25": {
+    "figure_id": 26,
+    "caption": "Figure 26: Malleus (reproduced with permission from Otolaryngology Houston, www.ghoryeb.com).",
+    "neighbor_passages": {
+      "antecedent": "Pictures of the three middle ear bones:",
+      "subsequent": "3. The Inner Ear The inner ear is located within the petrous part of the temporal bone. It is medial to the middle ear."
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p047_img0026.png",
+    "vector_index": 25,
+    "subsection_key": "015::Ear Anatomy"
+  },
+  "26": {
+    "figure_id": 27,
+    "caption": "Figure 27: Incus (reproduced with permission from Otolaryngology Houston, www.ghoryeb.com).",
+    "neighbor_passages": {
+      "antecedent": "Pictures of the three middle ear bones:",
+      "subsequent": "3. The Inner Ear The inner ear is located within the petrous part of the temporal bone. It is medial to the middle ear."
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p048_img0027.png",
+    "vector_index": 26,
+    "subsection_key": "015::Ear Anatomy"
+  },
+  "27": {
+    "figure_id": 28,
+    "caption": "Figure 28: Stapes (reproduced with permission from Otolaryngology Houston, www.ghoryeb.com).",
+    "neighbor_passages": {
+      "antecedent": "Pictures of the three middle ear bones:",
+      "subsequent": "3. The Inner Ear The inner ear is located within the petrous part of the temporal bone. It is medial to the middle ear."
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p048_img0028.png",
+    "vector_index": 27,
+    "subsection_key": "015::Ear Anatomy"
+  },
+  "28": {
+    "figure_id": 29,
+    "caption": "Figure 29: Otitis Externa (Courtesy of Elef-ENT).",
+    "neighbor_passages": {
+      "antecedent": "Treatment\n● Aural toilet (microsuction).\n● Topical antibiotic and steroid ear drops e.g. ciprofloxacin (provides anti-pseudomonal cover).\n● Insertion of a Pope wick helps the antibiotic come into contact with the canal wall and stents open a severely oedematous ear canal. The Pope wick looks like a small thin sponge and expands in the ear canal when wet.\n● Admit for diabetic control, IV antibiotics and regular aural toilet if suspecting necrotising otitis externa.",
+      "subsequent": null
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p068_img0029.png",
+    "vector_index": 28,
+    "subsection_key": "022::Otitis Externa"
+  },
+  "29": {
+    "figure_id": 30,
+    "caption": "Figure 30: Bulging tympanic membrane in AOM (Courtesy of Elef ENT).",
+    "neighbor_passages": {
+      "antecedent": "Signs\n● Bulging tympanic membrane (Figure 30).\n● Injected tympanic membrane.\n● If there is a perforation, there may be purulent discharge coming through. There may also be secondary otitis externa.",
+      "subsequent": "Complications\n● Intratemporal: tympanosclerosis (white patch on the ear drum due scarring), hearing loss, tympanic membrane perforation, mastoiditis, labyrinthitis, facial nerve palsy.\n● Intracranial: meningitis, intracranial abscess, lateral sinus thrombosis, cavernous sinus thrombosis, subdural empyema."
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p070_img0030.png",
+    "vector_index": 29,
+    "subsection_key": "023::Acute Otitis Media"
+  },
+  "30": {
+    "figure_id": 31,
+    "caption": "Figure 31: Dull right tympanic membrane with visible fluid level (Courtesy of Elef-ENT).",
+    "neighbor_passages": {
+      "antecedent": "Signs\n● Poor speech development.\n● Otoscopy: tympanic membrane will appear dull +/- a visible fluid level. If pneumatic otoscopy is performed the tympanic membrane will have poor compliance (Figure 31).",
+      "subsequent": "Investigations\n● Pure tone audiogram - this will reveal a conductive hearing loss (i.e. air bone gap on PTA).\n● Tympanometry will show a flat trace due to the reduced compliance of the tympanic membrane (i.e. ‘type b’ curve).\n● In an adult with a unilateral middle ear effusion ensure that flexible nasoendoscopy (FNE) is performed to rule out a nasopharyngeal tumour."
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p073_img0031.png",
+    "vector_index": 30,
+    "subsection_key": "024::Otitis Media with Effusion (OME)"
+  },
+  "31": {
+    "figure_id": 32,
+    "caption": "Figure 32: Right TM perforation (Courtesy of Elef-ENT)",
+    "neighbor_passages": {
+      "antecedent": "Signs\n● Mucosal inactive: Dry perforation (Figure 32).\n● Mucosal active: Wet perforation with middle ear inflammation.\n● Otorrhoea: May be present in active disease.\n● May develop secondary otitis externa due to the discharge",
+      "subsequent": "Complications As for acute otitis media."
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p076_img0032.png",
+    "vector_index": 31,
+    "subsection_key": "025::Chronic Otitis Media"
+  },
+  "32": {
+    "figure_id": 33,
+    "caption": "Figure 33: Active squamous chronic otitis media in left ear: attic retraction with retained squamous epithelial debris (cholesteatoma) (Courtesy of Elef-ENT).",
+    "neighbor_passages": {
+      "antecedent": "Signs\n● Otoscopy should be performed and micro suction should be used to clear any wax to ensure that the whole TM is visualised paying particular attention to the superior part of the TM (attic area).\n● There is a deep retraction pocket in the TM with keratinous debris within it. There may be granulations around the margins of the retraction pocket and it is very common for adjacent bony erosion to occur.\n● If there is secondary infection there will be discharge in the ear canal.\n● In congenital cholesteatoma, the tympanic membrane is usually intact but it may be bulging and a white pearly mass will be visible through the tympanic membrane",
+      "subsequent": "Complications As per acute otitis media (see above)."
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p078_img0033.png",
+    "vector_index": 32,
+    "subsection_key": "026::Cholesteatoma"
+  },
+  "33": {
+    "figure_id": 34,
+    "caption": "Figure 34: Rhinophyma in an elderly man (reproduced with permission from Otolaryngology Houston, www.ghoryeb.com).",
+    "neighbor_passages": {
+      "antecedent": "Clinically Important Point The skin overlying the cartilaginous portion of the external nose contains multiple pilosebaceous glands. Rhinophyma (see Figure 34) is a pathological hypertrophy of the glands, which results in an enlarged, red bulbous nose. It begins with rosacea, which worsens to acne rosacea. It is more common in white men between the age of 40 and 60 years of age.",
+      "subsequent": "The Nasal Cavity The nasal cavity extends from the nares anteriorly, to the choanae posteriorly. The midline is partitioned by the nasal septum (see Figure 35), which itself consists of structures including the maxillary crest inferiorly and perpendicular plate of the ethmoid bone superiorly and vomer posteriorly. The nasal septum is rarely in the midline, but when significantly deviated, it can contribute to nasal obstruction, particularly if the deviation is anterior."
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p082_img0034.png",
+    "vector_index": 33,
+    "subsection_key": "028::Nasal Function and Anatomy"
+  },
+  "34": {
+    "figure_id": 35,
+    "caption": "Figure 35: Bony and cartilaginous septum. (reproduced with permission from Otolaryngology Houston, www.ghoryeb.com).",
+    "neighbor_passages": {
+      "antecedent": "Each half of the nasal cavity has a roof, floor, lateral and medial wall. The roof is formed by the body of the sphenoid, cribriform plate of the ethmoid, frontal bone, the nasal bone and the nasal cartilages. The floor is formed by the maxilla, palatine bone and upper surface of the hard palate. The medial wall is illustrated opposite.",
+      "subsequent": "The lateral wall of the nasal cavity consists of a series of bony projections called turbinates (See Figure 36 below). The turbinates are covered by pseudostratified ciliated columnar epithelium and contain venous plexuses, which can engorge in response to external stimuli, neural and hormonal control. They have a role in humidifying and filtering inspired air."
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p083_img0035.png",
+    "vector_index": 34,
+    "subsection_key": "028::Nasal Function and Anatomy"
+  },
+  "35": {
+    "figure_id": 36,
+    "caption": "Figure 36: Left Inferior turbinate as viewed with the rigid endoscope.",
+    "neighbor_passages": {
+      "antecedent": "The lateral wall of the nasal cavity consists of a series of bony projections called turbinates (See Figure 36 below). The turbinates are covered by pseudostratified ciliated columnar epithelium and contain venous plexuses, which can engorge in response to external stimuli, neural and hormonal control. They have a role in humidifying and filtering inspired air.",
+      "subsequent": "There are four major openings into the internal nasal cavity:\n● Sphenoidal air cells drain into the spheno-ethmoidal recess.\n● The posterior ethmoid sinuses drain into the superior meatus.\n● The anterior ethmoid sinuses, frontal sinus, and maxillary sinuses drain into the middle meatus.\n● The nasolacrimal duct drains into the inferior meatus."
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p084_img0036.png",
+    "vector_index": 35,
+    "subsection_key": "028::Nasal Function and Anatomy"
+  },
+  "36": {
+    "figure_id": 37,
+    "caption": "Figure 37: Incorrect method of pinching the nose.",
+    "neighbor_passages": {
+      "antecedent": "Initial management options for epistaxis include leaning forwards and pinching the soft part of the nose to apply pressure to the septum (not the bony part of the nasal bridge - Figure 37 and Figure 38). Sucking on ice cubes or applied to the forehead may help slow bleeding by causing vasoconstriction of the feeding vessels. The next step should ideally be identification of the bleeding point for cautery (see Cautery in Practical Procedures Chapter).",
+      "subsequent": "Surgical Management of Epistaxis If these measures fail to control the bleeding (or bleeding from more posteriorly in the nasal cavity is responsible), an endoscopic sphenopalatine artery ligation under general anaesthesia is undertaken (see Figure 39). Traumatic epistaxis (for example from a sports injury) is usually anterior and related to the anterior ethmoidal artery. Ligation of this is often performed through an external incision at the medial aspect of the orbit."
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p086_img0037.png",
+    "vector_index": 36,
+    "subsection_key": "028::Nasal Function and Anatomy"
+  },
+  "37": {
+    "figure_id": 38,
+    "caption": "Figure 38: Correct method of pinching the nose.",
+    "neighbor_passages": {
+      "antecedent": "Initial management options for epistaxis include leaning forwards and pinching the soft part of the nose to apply pressure to the septum (not the bony part of the nasal bridge - Figure 37 and Figure 38). Sucking on ice cubes or applied to the forehead may help slow bleeding by causing vasoconstriction of the feeding vessels. The next step should ideally be identification of the bleeding point for cautery (see Cautery in Practical Procedures Chapter).",
+      "subsequent": "Surgical Management of Epistaxis If these measures fail to control the bleeding (or bleeding from more posteriorly in the nasal cavity is responsible), an endoscopic sphenopalatine artery ligation under general anaesthesia is undertaken (see Figure 39). Traumatic epistaxis (for example from a sports injury) is usually anterior and related to the anterior ethmoidal artery. Ligation of this is often performed through an external incision at the medial aspect of the orbit."
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p087_img0038.png",
+    "vector_index": 37,
+    "subsection_key": "028::Nasal Function and Anatomy"
+  },
+  "38": {
+    "figure_id": 39,
+    "caption": "Figure 39: An endoscopic clinical photograph of the right Sphenopalatine artery being clipped in the back of the nose under general anaesthetic for epistaxis. 2 clips have been applied to the main branch.",
+    "neighbor_passages": {
+      "antecedent": "When the cartilaginous septum is fractured, deformed or displaced it may be corrected with a septoplasty (cartilage remodelling) procedure.",
+      "subsequent": null
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p088_img0039.png",
+    "vector_index": 38,
+    "subsection_key": "028::Nasal Function and Anatomy"
+  },
+  "39": {
+    "figure_id": 40,
+    "caption": "Figure 40: Septal Haematoma after nasal trauma. This requires urgent drainage to avoid complications such as abscess and septal cartilage necrosis.",
+    "neighbor_passages": {
+      "antecedent": "If a septal haematoma is present, the patient must have this drained (in theatre) as soon as possible to prevent infection and subsequent destruction of the septal cartilage. This will lead to saddle deformity of the nose. They will need to be started on antibiotics to prevent secondary infection of the haematoma causing a septal abscess.",
+      "subsequent": null
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p091_img0040.png",
+    "vector_index": 39,
+    "subsection_key": "030::Fractured Nose"
+  },
+  "40": {
+    "figure_id": 41,
+    "caption": "Figure 41: Pre-operative image of trauma resulting in significant nasal deformity.",
+    "neighbor_passages": {
+      "antecedent": "If a septal haematoma is present, the patient must have this drained (in theatre) as soon as possible to prevent infection and subsequent destruction of the septal cartilage. This will lead to saddle deformity of the nose. They will need to be started on antibiotics to prevent secondary infection of the haematoma causing a septal abscess.",
+      "subsequent": null
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p092_img0041.png",
+    "vector_index": 40,
+    "subsection_key": "030::Fractured Nose"
+  },
+  "41": {
+    "figure_id": 42,
+    "caption": "Figure 42: Skin Prick Allergy Testing (SPT) Droplets of various allergen solutions are placed onto the forearm and the skin is punctured.",
+    "neighbor_passages": {
+      "antecedent": "Investigations\n● Clinical diagnosis can be made with a combination of history & examination.\n● The mainstay of investigation is the skin-prick allergy test (SPT), which can be done cheaply and quickly in a clinic. Positive (histamine) and negative (saline) controls are inserted into the skin (dermis), along with solutions of the various common inhaled aero-allergens (Figure 42), e.g. grass and tree pollen, dog and cat dander. A positive result is a wheal response after 20 minutes (Figure 43). Resuscitation equipment should be ready in case of anaphylaxis. Contra-indications include severe eczema/dermatographism or anaphylaxis. Patients should avoid taking anti-histamine tablets for 72 hours prior to the test in case they mask a response.\n● Serum RAST (Radio-allergosorbent test) is a blood test to find specific IgE to an allergen. There is no risk of anaphylaxis, but this is more expensive and takes time for the results. This may be also useful in children who may not tolerate SPT.",
+      "subsequent": "Treatment\n● General advice - avoiding allergen exposure. E.g. washing bed linen at high temperature to reduce house dust mite allergen burden.\n● Nasal douching and barrier ointments/creams.\n● Oral non-sedating antihistamine, eg. Loratidine, Cetirizine, Fexofenadine.\n● Intra-nasal steroids e.g. Fluticasone (Flixonase or Avamys nasal spray), Beclomethasone (Beconase Nasal spray), or Mometasone (Nasonex Nasal spray) - 1–2 sprays, once or twice a day titrated to the patient’s symptoms for a minimum of 4-6 weeks. Check formulary for appropriate prescribing ages. Intra-nasal steroid sprays are suitable for long-term use if tolerated. Escalation to steroid drops or oral steroids can be considered on rare occasions for severe symptoms, but caution must be taken over longer courses due to the numerous systemic side-effects.\n● Combination steroid and anti-histamine nasal sprays (eg. Dymista manufactured and distributed by Mylan®) - prescribed by specialists as 2nd line topical management for more effective relief in allergic rhinitis due to the synergistic combination of medications.\n● Leukotriene antagonists e.g. montelukast, (orally) useful if patients also have asthma.\n● Immunotherapy - Desensitisation therapy works by gradually increasing the exposure to an antigen. It can be given sublingual or via subcutaneous injection. Immunotherapy to grass pollens and house dust mites is available in a few specialist centres."
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p096_img0042.png",
+    "vector_index": 41,
+    "subsection_key": "033::Allergic Rhinitis"
+  },
+  "42": {
+    "figure_id": 43,
+    "caption": "Figure 43: After 15-20 minutes the results can be shown by the positive wheal reaction",
+    "neighbor_passages": {
+      "antecedent": "Investigations\n● Clinical diagnosis can be made with a combination of history & examination.\n● The mainstay of investigation is the skin-prick allergy test (SPT), which can be done cheaply and quickly in a clinic. Positive (histamine) and negative (saline) controls are inserted into the skin (dermis), along with solutions of the various common inhaled aero-allergens (Figure 42), e.g. grass and tree pollen, dog and cat dander. A positive result is a wheal response after 20 minutes (Figure 43). Resuscitation equipment should be ready in case of anaphylaxis. Contra-indications include severe eczema/dermatographism or anaphylaxis. Patients should avoid taking anti-histamine tablets for 72 hours prior to the test in case they mask a response.\n● Serum RAST (Radio-allergosorbent test) is a blood test to find specific IgE to an allergen. There is no risk of anaphylaxis, but this is more expensive and takes time for the results. This may be also useful in children who may not tolerate SPT.",
+      "subsequent": "Treatment\n● General advice - avoiding allergen exposure. E.g. washing bed linen at high temperature to reduce house dust mite allergen burden.\n● Nasal douching and barrier ointments/creams.\n● Oral non-sedating antihistamine, eg. Loratidine, Cetirizine, Fexofenadine.\n● Intra-nasal steroids e.g. Fluticasone (Flixonase or Avamys nasal spray), Beclomethasone (Beconase Nasal spray), or Mometasone (Nasonex Nasal spray) - 1–2 sprays, once or twice a day titrated to the patient’s symptoms for a minimum of 4-6 weeks. Check formulary for appropriate prescribing ages. Intra-nasal steroid sprays are suitable for long-term use if tolerated. Escalation to steroid drops or oral steroids can be considered on rare occasions for severe symptoms, but caution must be taken over longer courses due to the numerous systemic side-effects.\n● Combination steroid and anti-histamine nasal sprays (eg. Dymista manufactured and distributed by Mylan®) - prescribed by specialists as 2nd line topical management for more effective relief in allergic rhinitis due to the synergistic combination of medications.\n● Leukotriene antagonists e.g. montelukast, (orally) useful if patients also have asthma.\n● Immunotherapy - Desensitisation therapy works by gradually increasing the exposure to an antigen. It can be given sublingual or via subcutaneous injection. Immunotherapy to grass pollens and house dust mites is available in a few specialist centres."
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p097_img0043.png",
+    "vector_index": 42,
+    "subsection_key": "033::Allergic Rhinitis"
+  },
+  "43": {
+    "figure_id": 44,
+    "caption": "Figure 44: Mucopurulent discharge from the Right Middle Meatus (Sinus Drainage pathway) may be indicative of bacterial infection. (NS) Nasal septum, (MT)Middle Turbinate, (IT) Inferior Turbinate.",
+    "neighbor_passages": {
+      "antecedent": "Signs\n● Facial tenderness can occur but is uncommon.\n● Anterior rhinoscopy - inflammation, discharge.\n● Nasendoscopy - pus discharging from sinus openings e.g. middle meatus (Figure 44).",
+      "subsequent": "Complications\n● Intracranial: meningitis, cavernous sinus thrombosis, intracranial abscess (rare).\n● Associated with severe, sudden onset headache, vomiting & photophobia.\n● Extracranial: Osteomyelitis, orbital or pre-septal cellulitis, orbital abscess."
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p102_img0044.png",
+    "vector_index": 43,
+    "subsection_key": "035::Acute Rhinosinusitis (ARS)"
+  },
+  "44": {
+    "figure_id": 45,
+    "caption": "Figure 45: Evidence of a sub-periosteal abscess secondary to sinusitis causing right eye proptosis, peri-orbital swelling, chemosis and loss of the pupillary reflexes. Urgent surgery is required to reduce pressure on the optic nerve.",
+    "neighbor_passages": {
+      "antecedent": "Investigations\n● Bloods: FBC for WBC, CRP,blood culture only if very ill or other comorbidity.\n● If complicated/not responding…\n● Swab for microscopy, culture and sensitivity.\n● High definition CT scan with contrast of sinuses and brain if above complications occur. Intra orbital complications are a surgical emergency as vision can be threatened in the presence of intra orbital sepsis (see Figure 45).",
+      "subsequent": "Treatment\nIf symptoms less than 5 days and mild:\n● Analgesia and nasal saline irrigation;\n● Fluid rehydration;\n● Nasal decongestant e.g. xylometazoline or Pseudo-ephidrine for a period of 1 week only. If symptoms are persistent after 10 days or worsening after 5 days:\n● As above;\n● Topical intranasal steroids. If severe (at least 3 of: discoloured discharge, severe local pain, fever, elevated ESR/CRP, double sickening)\n● Broad-spectrum antibiotics for 7days. e.g. amoxicillin\n● Topical intranasal steroids If recurrent or chronic symptoms, refer to an ENT specialist for further management, and possible endoscopic sinus surgery."
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p103_img0045.png",
+    "vector_index": 44,
+    "subsection_key": "035::Acute Rhinosinusitis (ARS)"
+  },
+  "45": {
+    "figure_id": 46,
+    "caption": "Figure 46: CT Scan in coronal section showing bilateral maxillary sinusitis. R = Right side. Disease is worse on the left hand side mostly in the maxillary sinus and there is hypertrophy of the left inferior turbinate (reproduced with permission from Otolaryngology Houston, www.ghoryeb.com).",
+    "neighbor_passages": {
+      "antecedent": "Investigations CT Sinuses. Can assess the extent of disease and provide anatomical detail for pre-operative planning (see Figure 46).",
+      "subsequent": "Treatment 1. Non-operative. Appropriate medical management should be\nattempted primarily, including:\n● Saline Nasal Irrigation\n● Nasal decongestants (short course only)\n● Anti-histamines (if there is an underlying allergic component) Oral steroids with CRS with polyps - (caution with side effects), followed by topical therapy\n● Topical Steroids with CRS without polyps:\n○Drops include: betamethasone or fluticasone (A typical regime might be for a period of 4-6 weeks). ○Then switch onto maintenance intra-nasal cortico-steroid spray (INCS) such as fluticasone or mometasone for 3\nmonths until review.\n● Antibiotics - Certain antibiotics may help by their anti-bacterial and anti-inflammatory mechanisms. The true benefit of antibiotics in CRS is undergoing evaluation by ongoing trials.\n○The EPOS guidance suggests macrolides are useful in non polyp CRS when the IgE levels are not raised and the cardiac history has been taken into account due to possible effects on prolongation of the QT interval (e.g. Clarithromycin 500mg OD PO for 3 weeks). ○In polyp patients, the antibiotic of choice is Doxycycline (50 100mg OD PO for 3 weeks) if tolerated. ○Local formulary guidance should be sought if patients are allergic to first line options."
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p106_img0046.png",
+    "vector_index": 45,
+    "subsection_key": "035::Acute Rhinosinusitis (ARS)"
+  },
+  "46": {
+    "figure_id": 47,
+    "caption": "Figure 47: Clinical photograph of left nasal cavity showing inflammatory nasal polyps arising from the sinus drainage pathway (Middle Meatus) blocking nasal airway.",
+    "neighbor_passages": {
+      "antecedent": "Nasal Polyps Description Nasal polyps are very common and are typically bilateral. They typically present with symptoms of nasal blockage with or without a\nchange in smell perception. They are benign. They include:\n● Inflammatory/Allergic Polyps - sino-nasal polyposis, often multiple grey, oedematous polyps associated with CRS (see Figure 47).\n● Antro-choanal polyp - single polyp arising from maxillary sinus extending out towards nasopharynx causing unilateral nasal obstruction.",
+      "subsequent": "Treatment 1. Medical Medical treatment involves some form of steroid-based treatment combined with nasal saline rinses. If there are no contra-indications, a typical regime might consist of a short course of oral steroids (Prednisolone 0.5mg per kg PO for 7 days with PPI cover), followed by intra-nasal steroid drops for 4-6 weeks, and subsequently a maintenance intra-nasal corticosteroid spray (INCS) such as Mometasone until further review. There is some evidence from the EPOS guidance that certain antibiotics are of added benefit if the levels of IgE in the serum are not raised (eg. Doxycycline)."
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p109_img0047.png",
+    "vector_index": 46,
+    "subsection_key": "036::Nasal Polyps"
+  },
+  "47": {
+    "figure_id": 48,
+    "caption": "Figure 48: Inverted papilloma right nasal cavity arising from lateral wall of nose.",
+    "neighbor_passages": {
+      "antecedent": "Other Sinonasal Lesions\n1. Benign lesions\n● Papilloma/Wart - verrucous lesion, commonly in nasal vestibule, often multiple and painless, presents with bleeding. Local excision is the mainstay of treatment.\n● Pyogenic Granuloma - friable lesion that bleeds, usually from trauma often arising on septum. Commoner in pregnancy.\n● Other rarer pathologies can have the appearance of a “unilateral nasal polyp” during nasal examination. Examples include.\n● Inverted Papilloma - benign but locally aggressive polyp that has a predisposition for recurrence if not completely cleared including its site of origin. Can rarely transform into malignancy over time (see Figure 48).\n● Juvenile Nasopharyngeal Angiofibroma (JNA) - vascular benign tumour exclusively present in adolescent males (may have hormonal element). These are extremely rare but classically present with nose-bleeds and nasal obstruction in teenage boys. Embolisation and subsequent surgical removal (endoscopic or open depending on extent) is the mainstay of treatment.\n● Meningoencephalocoele/glioma - herniation of intracranial contents through a weakness in skull-base containing meninges, brain (rarely functioning) or support tissue. Imaging with MRI needed before biopsy.",
+      "subsequent": "2. Malignant Sino-nasal malignancies are rare but present late, resulting in a poor prognosis. Presenting symptoms include unilateral nasal obstruction, unilateral glue ear, bleeding, pain, neck lumps, unexplained weight loss, eye symptoms, headaches or cranial nerve deficits. The commonest are squamous cell carcinomas (see Figure 49 and Figure 50), adenocarcinomas (associated with wood-working) and nasopharyngeal carcinomas (arising from the nasopharynx)."
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p112_img0048.png",
+    "vector_index": 47,
+    "subsection_key": "037::Other Sinonasal Lesions"
+  },
+  "48": {
+    "figure_id": 49,
+    "caption": "Figure 49: SCC of the Left Maxillary Sinus.",
+    "neighbor_passages": {
+      "antecedent": "Treatment can be curative or palliative and may include surgery, chemotherapy (drugs), radiotherapy (ionizing radiation) or a combination of these. Nasopharyngeal cancers are commonly treated with radiotherapy or chemoradiotherapy.",
+      "subsequent": null
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p113_img0049.png",
+    "vector_index": 48,
+    "subsection_key": "037::Other Sinonasal Lesions"
+  },
+  "49": {
+    "figure_id": 50,
+    "caption": "Figure 50: Endoscopic image of SCC Left Maxillary Sinus",
+    "neighbor_passages": {
+      "antecedent": "Treatment can be curative or palliative and may include surgery, chemotherapy (drugs), radiotherapy (ionizing radiation) or a combination of these. Nasopharyngeal cancers are commonly treated with radiotherapy or chemoradiotherapy.",
+      "subsequent": null
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p113_img0050.png",
+    "vector_index": 49,
+    "subsection_key": "037::Other Sinonasal Lesions"
+  },
+  "50": {
+    "figure_id": 51,
+    "caption": "Figure 51: Unilateral left cleft lip and palate (Courtesy of Elf-ENT).",
+    "neighbor_passages": {
+      "antecedent": "Important Considerations\n● Feeding - poor suction, lengthy feeds, nasal regurgitation, excessive air intake, poor airway protection and expending too much energy can cause failure to thrive. Bottles with special nipples can help improve this.\n● Otologic - high incidence of glue ear and delayed resolution (poor Eustachian tube function secondary to abnormally developed palate muscles predisposes to middle ear effusions) means hearing assessment early on is a priority with onward referral for grommets or hearing aids.\n● Speech/Swallow - speech and language therapy to combat problems with palate dysfunction and reflux.\n● Cosmetic - lip and nasal deformities will require addressing within 1st year of life and revision often required later as the patient grows.\n● Dental - restoration / prosthesis may be required for normal function and cosmesis\n● Psychology, Social Work & MDT - parental counselling and assistance is important starting pre-natally and ongoing throughout childhood. Paediatricians are often well placed to help co-ordinate global development.",
+      "subsequent": null
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p115_img0051.png",
+    "vector_index": 50,
+    "subsection_key": "038::Cleft Lip and Palate"
+  },
+  "51": {
+    "figure_id": 52,
+    "caption": "Figure 52: Oral cavity (reproduced with permission from Otolaryngology Houston, www.ghoryeb.com).",
+    "neighbor_passages": {
+      "antecedent": "The oral cavity is bounded by (Figure 52):\n● Anteriorly by the lips;\n● Posteriorly by the palatoglossal arches (anterior pillars of the fauces);\n● Laterally by the teeth and cheeks;\n● Inferiorly by the floor of mouth and mylohyoid;\n● Superiorly by the hard palate.",
+      "subsequent": "Nerve Supply of the Tongue"
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p122_img0052.png",
+    "vector_index": 51,
+    "subsection_key": "043::Oral Cavity"
+  },
+  "52": {
+    "figure_id": 53,
+    "caption": "Figure 53: Levels of the neck (courtesy of Elf-ENT).",
+    "neighbor_passages": {
+      "antecedent": "Topography of the Neck The regions are described as levels and assigned a roman numeral. It is particularly useful when describing the location of a neck lump. These levels can be divided into subdivisions but for the purposes of this handbook we have not discussed this.",
+      "subsequent": "The neck can also be divided into anterior and posterior triangles. The anterior triangle is bounded superiorly by the mandible, laterally by the sternocleidomastoid muscle and medially by the midline. The posterior triangle is bounded anteromedially by the sternocleidomastoid, inferiorly by the clavicle and posteriorly by trapezius muscle."
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p124_img0053.png",
+    "vector_index": 52,
+    "subsection_key": "044::Topography of the Neck"
+  },
+  "53": {
+    "figure_id": 54,
+    "caption": "Figure 54: Investing layer of fascia (Image courtesy of Elef-ENT).",
+    "neighbor_passages": {
+      "antecedent": "Deep Layer consists of 3 separate layers:\n● Investing layer (external) (Figure 54) - It splits to invest the trapezius, sternomastoid and parotid, and its deeper layer invests the great vessels to form the carotid sheath.\n● Pretracheal layer (visceral) (Figure 55) - covers the salivary glands, muscles, thyroid gland and other structures located in front of the trachea.\n● Prevertebral layer (internal) (Figure 56) - covers the prevertebral muscles. The interval between the pharynx and the prevertebral fascia is called the retropharyngeal space.",
+      "subsequent": null
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p126_img0054.png",
+    "vector_index": 53,
+    "subsection_key": "045::Fascial Layers of the Neck"
+  },
+  "54": {
+    "figure_id": 55,
+    "caption": "Figure 55: Visceral layer of fascia (Image courtesy of Elef-ENT).",
+    "neighbor_passages": {
+      "antecedent": "Deep Layer consists of 3 separate layers:\n● Investing layer (external) (Figure 54) - It splits to invest the trapezius, sternomastoid and parotid, and its deeper layer invests the great vessels to form the carotid sheath.\n● Pretracheal layer (visceral) (Figure 55) - covers the salivary glands, muscles, thyroid gland and other structures located in front of the trachea.\n● Prevertebral layer (internal) (Figure 56) - covers the prevertebral muscles. The interval between the pharynx and the prevertebral fascia is called the retropharyngeal space.",
+      "subsequent": null
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p127_img0055.png",
+    "vector_index": 54,
+    "subsection_key": "045::Fascial Layers of the Neck"
+  },
+  "55": {
+    "figure_id": 56,
+    "caption": "Figure 56: Prevertebral layer of fascia (Image courtesy of Elef-ENT).",
+    "neighbor_passages": {
+      "antecedent": "Deep Layer consists of 3 separate layers:\n● Investing layer (external) (Figure 54) - It splits to invest the trapezius, sternomastoid and parotid, and its deeper layer invests the great vessels to form the carotid sheath.\n● Pretracheal layer (visceral) (Figure 55) - covers the salivary glands, muscles, thyroid gland and other structures located in front of the trachea.\n● Prevertebral layer (internal) (Figure 56) - covers the prevertebral muscles. The interval between the pharynx and the prevertebral fascia is called the retropharyngeal space.",
+      "subsequent": null
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p127_img0056.png",
+    "vector_index": 55,
+    "subsection_key": "045::Fascial Layers of the Neck"
+  },
+  "56": {
+    "figure_id": 57,
+    "caption": "Figure 57: Swallowing Physiology",
+    "neighbor_passages": {
+      "antecedent": "Peristalsis propels the food bolus at a rate of 4cm/s towards the lower oesophageal sphincter which also relaxes Gravity aids peristalsis in the upright position",
+      "subsequent": null
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p134_img0057.png",
+    "vector_index": 56,
+    "subsection_key": "047::Physiology of Swallowing"
+  },
+  "57": {
+    "figure_id": 58,
+    "caption": "Figure 58: Acute Tonsillitis illustrating white follicles on the tonsils (reproduced with permission from Otolaryngology Houston, www.ghoryeb.com).",
+    "neighbor_passages": {
+      "antecedent": "Signs\n● Pyrexia;\n● Swollen tonsils +/- exudate;\n● Thick or ‘hot potato’ voice with enlarged tonsils;\n● Presence of trismus indicates a peritonsillar abscess (quinsy);\n● Bilateral cervical lymphadenopathy.",
+      "subsequent": "Natural history\n● Peritonsillar abscess (quinsy)- severe, usually unilateral pain, “hot potato” voice, trismus, and uvula pushed to opposite side by peritonsillar swelling (see figure 53).\n● Parapharyngeal and retropharyngeal abscesses- potentially life threatening complications of tonsillitis. They may present with non-resolving sore throat, systemic upset, neck stiffness and neck tenderness."
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p143_img0058.png",
+    "vector_index": 57,
+    "subsection_key": "053::Tonsillitis"
+  },
+  "58": {
+    "figure_id": 59,
+    "caption": "Figure 59: Left Sided Peritonsillar Abscess (Quinsy) (reproduced with permission from Otolaryngology Houston, www.ghoryeb.com).",
+    "neighbor_passages": {
+      "antecedent": "Signs\n● Pyrexia;\n● Swollen tonsils +/- exudate;\n● Thick or ‘hot potato’ voice with enlarged tonsils;\n● Presence of trismus indicates a peritonsillar abscess (quinsy);\n● Bilateral cervical lymphadenopathy.",
+      "subsequent": "Natural history\n● Peritonsillar abscess (quinsy)- severe, usually unilateral pain, “hot potato” voice, trismus, and uvula pushed to opposite side by peritonsillar swelling (see figure 53).\n● Parapharyngeal and retropharyngeal abscesses- potentially life threatening complications of tonsillitis. They may present with non-resolving sore throat, systemic upset, neck stiffness and neck tenderness."
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p143_img0059.png",
+    "vector_index": 58,
+    "subsection_key": "053::Tonsillitis"
+  },
+  "59": {
+    "figure_id": 60,
+    "caption": "Figure 60: Zenker's Diverticulum(reproduced with permission from Otolaryngology Houston, www.ghoryeb.com).",
+    "neighbor_passages": {
+      "antecedent": "Management\n● If asymptomatic - conservative management.\n● If symptomatic, particularly if risk of aspiration and recurrent pneumonia - endoscopic stapling is the first line. If not appropriate for endoscopic management, open approaches may be used. Division of the cricopharyngeus is important in resolving the pathological abnormality causing the pouch.",
+      "subsequent": null
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p147_img0060.png",
+    "vector_index": 59,
+    "subsection_key": "054::Pharyngeal Pouch"
+  },
+  "60": {
+    "figure_id": 61,
+    "caption": "Figure 61: Pleomorphic adenoma of the parotid gland (reproduced with permission from Otolaryngology Houston, www.ghoryeb.com).",
+    "neighbor_passages": {
+      "antecedent": "Red Flags\n● Hardness;\n● Rapid growth;\n● Tenderness;\n● Infiltration of surrounding structures;\n● Overlying skin ulceration;\n● Facial weakness.",
+      "subsequent": "Summary of the Commonest Benign Salivary Tumours"
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p159_img0061.png",
+    "vector_index": 60,
+    "subsection_key": "060::Benign and Malignant Neoplasms of the Salivary Glands"
+  },
+  "61": {
+    "figure_id": 62,
+    "caption": "Figure 62: Divisions of the pharynx.",
+    "neighbor_passages": {
+      "antecedent": "Carcinoma of the Pharynx Carcinoma of the pharynx can be subdivided into the following\nregions:\n● Nasopharynx\n● Oropharynx\n● Hypopharynx",
+      "subsequent": "Risk factors\n● Multifactorial\n● Smoking\n● Alcohol\n● Virus - Human Papilloma Virus (oropharynx), Ebstein Barr Virus (EBV, Nasopharynx)\n● Radiation"
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p163_img0062.png",
+    "vector_index": 61,
+    "subsection_key": "062::Carcinoma of the Pharynx"
+  },
+  "62": {
+    "figure_id": 63,
+    "caption": null,
+    "neighbor_passages": {
+      "antecedent": "Laryngeal carcinoma can be subdivided into supraglottic (27%), glottic (69%) and subglottic (4%). Glottic cancer is the most common. Histology is the squamous cell origin in 90%.",
+      "subsequent": "Figure 63. Left glottic squamous cell carcinoma- encroaching on the anterior commissure (reproduced with permission from Otolaryngology Houston, www.ghoryeb.com)."
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p167_img0063.png",
+    "vector_index": 62,
+    "subsection_key": "066::Carcinoma of the Larynx"
+  },
+  "63": {
+    "figure_id": 64,
+    "caption": "Figure 64: Little areas on the left nasal cavity (reproduced with permission from Otolaryngology Houston, www.ghoryeb.com).",
+    "neighbor_passages": {
+      "antecedent": "Epistaxis (Nose Bleed)",
+      "subsequent": "History\n● Epistaxis is a common ENT emergency. Unless urgent management is required, a good history is essential.\n● When did it begin? Was trauma a trigger?\n● How much blood? Try to quantify.\n● Where?\n● Which nostril? Does it change, or always that side?\n● Blood coming out of the nose only (Anterior epistaxis likely), or also trickling back and being swallowed (likely posterior bleeding)?"
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p180_img0064.png",
+    "vector_index": 63,
+    "subsection_key": "071::Epistaxis (Nose Bleed)"
+  },
+  "64": {
+    "figure_id": 65,
+    "caption": "Figure 65: Foreign body (screw) in the nose of a child.",
+    "neighbor_passages": {
+      "antecedent": "Foreign body in the nose A foreign body in the nose is more common in children. Foreign body examples include beads, peas, nuts and sweets. This presentation can be dangerous if the foreign body is inhaled into the airway causing airway obstruction. In particular, if the foreign body is a battery (button battery) this can quickly erode nasal mucosa and cartilage leading to septal perforation.",
+      "subsequent": "Symptoms\n● Unilateral nasal discharge (often offensive if present for a while).\n● Nasal obstruction.\n● Irritability in infants"
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p182_img0065.png",
+    "vector_index": 64,
+    "subsection_key": "072::Foreign body in the nose"
+  },
+  "65": {
+    "figure_id": 66,
+    "caption": "Figure 66: Right sided septal haematoma. Description A septal haematoma is blood which collects between the perichondrium and septal cartilage. There is an increased risk of devascularisation of the septal cartilage and this can lead to necrosis, perforation and deformity.",
+    "neighbor_passages": {
+      "antecedent": "Nasal septum haematoma",
+      "subsequent": "Presentation\n● Usually due to nasal trauma. Associated with nasal bone fracture.\n● Can be unilateral or bilateral (usually bilateral)."
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p183_img0066.png",
+    "vector_index": 65,
+    "subsection_key": "073::Nasal septum haematoma"
+  },
+  "66": {
+    "figure_id": 67,
+    "caption": "Figure 67: Foreign body in the ear (reproduced with permission from Otolaryngology Houston, www.ghoryeb.com).",
+    "neighbor_passages": {
+      "antecedent": "Foreign body in the ear",
+      "subsequent": "A foreign body in the ear is more common in children. However, broken ends of cotton bud ends or pieces of tissue can be found in the embarrassed adult! It is particularly dangerous if the foreign body is a button battery as rapid erosion may occur."
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p184_img0067.png",
+    "vector_index": 66,
+    "subsection_key": "074::Foreign body in the ear"
+  },
+  "67": {
+    "figure_id": 68,
+    "caption": "Figure 68: Central perforation of left tympanic membrane (reproduced with permission from Otolaryngology Houston, www.ghoryeb.com).",
+    "neighbor_passages": {
+      "antecedent": "Perforated Tympanic Membrane",
+      "subsequent": "Causes\n● Previous surgery e.g. grommets.\n● Infection (Acute otitis media with perforation).\n● Trauma (blow to the ear or barotrauma)."
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p185_img0068.png",
+    "vector_index": 67,
+    "subsection_key": "075::Perforated Tympanic Membrane"
+  },
+  "68": {
+    "figure_id": 69,
+    "caption": "Figure 69: Ludwig’s Angina (courtesy of E-lfENT)",
+    "neighbor_passages": {
+      "antecedent": "Deep neck space infections Causes The causative agent is normally bacterial & it often originates from poor dental hygiene particularly in the case of Ludwig’s angina (Figure 69).",
+      "subsequent": "Presentation This depends upon which deep neck space is affected. Symptoms to watch out for include pain, trismus (unable to open mouth fully), dysphagia, dysphonia, stridor and drooling. Patients typically look very unwell with pyrexia and malaise."
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p188_img0069.png",
+    "vector_index": 68,
+    "subsection_key": "077::Deep neck space infections"
+  },
+  "69": {
+    "figure_id": 70,
+    "caption": "Figure 70: Right quinsy (courtesy of Elf-ENT).",
+    "neighbor_passages": {
+      "antecedent": "Quinsy (Figure 70) – this is a peri-tonsillar abscess. Patients present with pain, odynophagia and a “hot-potato” voice. Trismus is common. Treatment is per-oral aspiration and/or incision & drainage which can be done under local anaesthetic.",
+      "subsequent": "Ludwig’s angina - this infection typically arises from poor dentition and spreads rapidly involving the floor of the mouth, submandibular space and into adjacent deep neck spaces. Treatment involves draining the collection and removing the source of infection (e.g. a rotten tooth)."
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p190_img0070.png",
+    "vector_index": 69,
+    "subsection_key": "077::Deep neck space infections"
+  },
+  "70": {
+    "figure_id": 71,
+    "caption": "Figure 71: Knife laceration to neck (courtesy of Elf-ENT).",
+    "neighbor_passages": {
+      "antecedent": "Penetrating neck trauma Causes There are a large number of potential causes of penetrating neck injuries but most commonly these are due to a knife, broken glass (e.g. a bottle being used as a weapon) or gunshot wound.",
+      "subsequent": "Presentation It is important to obtain as much history as possible e.g. when and how it occurred, length of knife etc. Examination of the neck should include specific reference to the site of injury. This can help with identifying the most likely structure involved. The neck is divided into three zones."
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p191_img0071.png",
+    "vector_index": 70,
+    "subsection_key": "078::Penetrating neck trauma"
+  },
+  "71": {
+    "figure_id": 72,
+    "caption": "Figure 72: Zones of the Neck (courtesy of Elf-ENT).",
+    "neighbor_passages": {
+      "antecedent": "Presentation It is important to obtain as much history as possible e.g. when and how it occurred, length of knife etc. Examination of the neck should include specific reference to the site of injury. This can help with identifying the most likely structure involved. The neck is divided into three zones.",
+      "subsequent": "Zone I extends from the clavicle to the cricoid. It contains a number of important vessels - the common carotid artery, internal jugular vein, the trachea and oesophagus."
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p192_img0072.png",
+    "vector_index": 71,
+    "subsection_key": "078::Penetrating neck trauma"
+  },
+  "72": {
+    "figure_id": 73,
+    "caption": "Figure 73: Important landmarks in the neck (courtesy of Elf-ENT).",
+    "neighbor_passages": {
+      "antecedent": "Presentation It is important to obtain as much history as possible e.g. when and how it occurred, length of knife etc. Examination of the neck should include specific reference to the site of injury. This can help with identifying the most likely structure involved. The neck is divided into three zones.",
+      "subsequent": "Zone I extends from the clavicle to the cricoid. It contains a number of important vessels - the common carotid artery, internal jugular vein, the trachea and oesophagus."
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p192_img0073.png",
+    "vector_index": 72,
+    "subsection_key": "078::Penetrating neck trauma"
+  },
+  "73": {
+    "figure_id": 74,
+    "caption": "Figure 74: Prominent vessels over Little’s area on the right.",
+    "neighbor_passages": {
+      "antecedent": "First decongest and numb the nose with a combined lignocaine and phenylephrine spray either sprayed directly into the nose or applied on cotton wool pledgets. Close examination of the anterior septum can often reveal the likely point of bleeding e.g. right Littles area (Figure 74) The vasoconstrictive element helps reduce any active septal bleeding to a slow ooze which may be amenable to cautery.",
+      "subsequent": "Silver nitrate cautery (Figure 75) should be applied in a ‘rose-petal’ pattern (see Figure 76). Often Naseptin cream (a combination Chlorhexidine and Neomycin cream - caution with Nut allergy as it contains Arachis oil from peanuts) is applied topically post-cautery for 2 weeks which can aid healing. Caution should be taken not to cauterize both sides of the septum directly opposite each other for fear of creating a septal perforation. In some units bipolar cautery may be available, but the underlying principles of cautery remain the same."
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p202_img0074.png",
+    "vector_index": 73,
+    "subsection_key": "085::Nasal Cautery"
+  },
+  "74": {
+    "figure_id": 75,
+    "caption": "Figure 75: Silver nitrate sticks.",
+    "neighbor_passages": {
+      "antecedent": "Silver nitrate cautery (Figure 75) should be applied in a ‘rose-petal’ pattern (see Figure 76). Often Naseptin cream (a combination Chlorhexidine and Neomycin cream - caution with Nut allergy as it contains Arachis oil from peanuts) is applied topically post-cautery for 2 weeks which can aid healing. Caution should be taken not to cauterize both sides of the septum directly opposite each other for fear of creating a septal perforation. In some units bipolar cautery may be available, but the underlying principles of cautery remain the same.",
+      "subsequent": "Figure 76. Cautery Applied in a ‘Rose Petal’ Pattern to to fully deal with the efferent and afferent tributary vessels."
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p203_img0075.png",
+    "vector_index": 74,
+    "subsection_key": "085::Nasal Cautery"
+  },
+  "75": {
+    "figure_id": 76,
+    "caption": null,
+    "neighbor_passages": {
+      "antecedent": "Silver nitrate cautery (Figure 75) should be applied in a ‘rose-petal’ pattern (see Figure 76). Often Naseptin cream (a combination Chlorhexidine and Neomycin cream - caution with Nut allergy as it contains Arachis oil from peanuts) is applied topically post-cautery for 2 weeks which can aid healing. Caution should be taken not to cauterize both sides of the septum directly opposite each other for fear of creating a septal perforation. In some units bipolar cautery may be available, but the underlying principles of cautery remain the same.",
+      "subsequent": "Figure 76. Cautery Applied in a ‘Rose Petal’ Pattern to to fully deal with the efferent and afferent tributary vessels."
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p203_img0076.png",
+    "vector_index": 75,
+    "subsection_key": "085::Nasal Cautery"
+  },
+  "76": {
+    "figure_id": 77,
+    "caption": null,
+    "neighbor_passages": {
+      "antecedent": "If anterior packing does not control the bleeding, or a posterior bleed is identified, a posterior nasal pack may be required. It is a good idea to get your seniors involved, and posterior packs should ideally be placed with senior supervision. A Foley urinary catheter using the balloon to occlude the post nasal space with anterior ribbon gauze is the convention, but there are a number of modern options for posterior packing now available (Antero-Posterior Rapid Rhino’s, Brighton Epistaxis Balloons, etc).",
+      "subsequent": "Figure 77. Nasal Packing with Rapid Rhino nasal pack. It should be inserted along the floor of the hard-palate (direction of arrow) and NOT upwards."
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p205_img0077.png",
+    "vector_index": 76,
+    "subsection_key": "086::Anterior Nasal Packing"
+  },
+  "77": {
+    "figure_id": 78,
+    "caption": "Figure 78: Flexible nasendoscopy.",
+    "neighbor_passages": {
+      "antecedent": "Nasendoscopy Description This uses a flexible fibreoptic endoscope or a rigid straight or angled scope to examine the nose, postnasal space, pharynx and larynx. It can be performed in the outpatients department and is commonly done without the need of any anaesthetic spray.",
+      "subsequent": "Indications To examine the nose, the sinuses, pharynx and larynx for pathology To assess the voice To evaluate swallowing To evaluate the airway and assist in intubation"
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p206_img0078.png",
+    "vector_index": 77,
+    "subsection_key": "087::Nasendoscopy"
+  },
+  "78": {
+    "figure_id": 79,
+    "caption": "Figure 79: Flexible nasendoscopy schematic.",
+    "neighbor_passages": {
+      "antecedent": "Nasendoscopy Description This uses a flexible fibreoptic endoscope or a rigid straight or angled scope to examine the nose, postnasal space, pharynx and larynx. It can be performed in the outpatients department and is commonly done without the need of any anaesthetic spray.",
+      "subsequent": "Indications To examine the nose, the sinuses, pharynx and larynx for pathology To assess the voice To evaluate swallowing To evaluate the airway and assist in intubation"
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p206_img0079.png",
+    "vector_index": 78,
+    "subsection_key": "087::Nasendoscopy"
+  },
+  "79": {
+    "figure_id": 80,
+    "caption": "Figure 80: An audiogram.",
+    "neighbor_passages": {
+      "antecedent": "Interpretation Hearing Disability is defined as: Normal hearing is defined to be 20dB or better. Mild hearing loss is between 21-40dB. Moderate hearing loss is between 41-70dB. Severe hearing loss is considered to be 71-90dB. Profound hearing loss is worse than 90dB.",
+      "subsequent": null
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p213_img0080.png",
+    "vector_index": 79,
+    "subsection_key": "090::Pure Tone Audiometry"
+  },
+  "80": {
+    "figure_id": 81,
+    "caption": "Figure 81: An audiogram showing normal hearing in the right ear.",
+    "neighbor_passages": {
+      "antecedent": "Interpretation Hearing Disability is defined as: Normal hearing is defined to be 20dB or better. Mild hearing loss is between 21-40dB. Moderate hearing loss is between 41-70dB. Severe hearing loss is considered to be 71-90dB. Profound hearing loss is worse than 90dB.",
+      "subsequent": null
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p214_img0081.png",
+    "vector_index": 80,
+    "subsection_key": "090::Pure Tone Audiometry"
+  },
+  "81": {
+    "figure_id": 82,
+    "caption": "Figure 82: This audiogram shows left conductive hearing loss. The most common cause in a child would be otitis media with effusion commonly referred to as “glue ear”. This condition has a bimodal distribution peaking at 2years of age and then again at 5 years of age.",
+    "neighbor_passages": {
+      "antecedent": "Audiogram Case Study 1 A 5 years old child is brought to see the GP by his mother who is concerned about his hearing. She feels he often mishears and can even ignore her at times. There have been similar concerns raised at his school including a slight speech delay and 2 failed hearing tests. The boy demands to have the television on loud and can often be loud and boisterous himself. In the past 6 months he has complained of earache several times which responds to paracetamol. He is referred to the community audiologist for a hearing test.",
+      "subsequent": null
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p215_img0082.png",
+    "vector_index": 81,
+    "subsection_key": "091::Audiogram Case Study 1"
+  },
+  "82": {
+    "figure_id": 83,
+    "caption": "Figure 83: This audiogram shows right sensorineural hearing loss. Bilateral, progressive symmetrical sensorineural hearing loss with no history of noise exposure in a patient over 60 is typically due to presbyacusis, otherwise known as age-related hearing loss.",
+    "neighbor_passages": {
+      "antecedent": "Audiogram Case Study 2 A 72 years old lady presents to her GP rather upset that her family keeps complaining about her hearing. She has no earache, no dizziness, no previous ear complaints and has never worked in a noisy environment. She has noticed some mild ringing in both ears for the past 6 months and does admit to lip reading at times. She is quite anxious that she will be given a bulky hearing aid, but agrees to have a hearing test.",
+      "subsequent": null
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p216_img0083.png",
+    "vector_index": 82,
+    "subsection_key": "092::Audiogram Case Study 2"
+  },
+  "83": {
+    "figure_id": 84,
+    "caption": "Figure 84: Tympanogram describes Type A (green), Type B (red), Type C (orange) patterns (Courtesy of Elf-ENT).",
+    "neighbor_passages": {
+      "antecedent": "Type C shows low pressure in the middle ear and is seen in Eustachian tube dysfunction.",
+      "subsequent": null
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p218_img0084.png",
+    "vector_index": 83,
+    "subsection_key": "093::Tympanometry"
+  },
+  "84": {
+    "figure_id": 85,
+    "caption": "Figure 85: Grommet in situ.",
+    "neighbor_passages": {
+      "antecedent": "Complications and consent\n● Infection which most commonly manifests as otorrhoea.\n● Tympanosclerosis (scarring of the eardrum).\n● Tympanic membrane perforation (2-5%).",
+      "subsequent": null
+    },
+    "image_path": "/home/user/ent_rag/build_time/rag_digest/raw_images/SFO_UK_Handbook_for_ENT_Reformat_p223_img0085.png",
+    "vector_index": 84,
+    "subsection_key": "096::Grommet Insertion"
+  }
+}
