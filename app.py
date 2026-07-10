@@ -1,7 +1,7 @@
 """Local Streamlit front end for the ENT RAG SLM chatbot.
 
 Run from the project root after running run_time_bootstrap.py:
-    python -m streamlit run streamlit_ent_rag_app.py \
+    python -m streamlit run app.py \
         --server.address=127.0.0.1 \
         --server.port=8501
 
