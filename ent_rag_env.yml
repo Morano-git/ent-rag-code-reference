@@ -1,17 +1,13 @@
 # ENT RAG environment rebuilt for OpenAI-API RAGAS evaluation.
 # Distribution-focused top-level list: intentionally excludes transitive dependencies.
+# Check ~/environment_packages/..., wherein the files are explicitly listing all packages
 #
 # System prerequisite on Ubuntu/WSL when using Python 3.14 and packages that may build wheels:
 #   sudo apt update
 #   sudo apt install -y build-essential
 #
 # This environment intentionally does NOT top-level install:
-#   - kernels / kernels-data
-#   - explicit triton
 #   - langchain-huggingface
-# These were only needed for the failed local GPT-OSS-20B RAGAS judge path.
-#
-# Note: torch may still install CUDA transitive packages automatically.
 
 name: ent_rag
 
